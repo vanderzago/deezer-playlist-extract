@@ -15,7 +15,7 @@ playlist=response['DATA']['TITLE']
 
 track_number=1
 for doc in response['SONGS']['data']:
-    content=playlist+","+str(track_number)+","+doc['ART_NAME']+","+doc['SNG_TITLE']+"\n"
+    content=playlist+","+str(track_number)+","+doc['ART_NAME']+","+doc['SNG_TITLE']+","+doc['ALB_TITLE']+","+doc['DURATION']+"\n"
     print(content)
     f.write(content)
     track_number += 1
