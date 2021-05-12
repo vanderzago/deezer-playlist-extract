@@ -1,937 +1,937 @@
-PLAY 01,1,Pearl Jam,Animal,Only Success,167
-PLAY 01,2,Pearl Jam,Rockin' in the Free World,Only Success,390
-PLAY 01,3,Pearl Jam,Rearviewmirror,Only Success,300
-PLAY 01,4,Pearl Jam,Sonic Reducer,Only Success,214
-PLAY 01,5,Pearl Jam,State of Love and Trust,SINGLES - Original Motion Picture Soundtrack,227
-PLAY 01,6,Pearl Jam,World Wide Suicide,Only Success,215
-PLAY 01,7,Pearl Jam,I Got Id,rearviewmirror (greatest hits 1991-2003),291
-PLAY 01,8,Pearl Jam,Breath,Singles - Original Motion Picture Soundtrack,325
-PLAY 01,9,Pearl Jam,Thin Air,Binaural,212
-PLAY 01,10,Pearl Jam,Hard To Imagine,Lost Dogs,274
-PLAY 01,11,Pearl Jam,Let Me Sleep (It's Christmas Time),Lost Dogs,177
-PLAY 01,12,Pearl Jam,Yellow Ledbetter,Lost Dogs,300
-PLAY 01,13,Pearl Jam,Soldier of Love,No Boundaries - A Benefit For The Kosovar Refugees,174
-PLAY 01,14,Pearl Jam,Footsteps,Lost Dogs Disc 2,253
-PLAY 01,15,Pearl Jam,Master Of War,Only Success,299
-PLAY 01,16,Pearl Jam,Alive,Unplugged MTV,331
-PLAY 01,17,Pearl Jam,Even Flow,Unplugged MTV,308
-PLAY 01,18,Pearl Jam,Jeremy,Unplugged MTV,312
-PLAY 01,19,Pearl Jam,Black,Unplugged MTV,321
-PLAY 01,20,Pearl Jam,Porch,Unplugged MTV,367
-PLAY 02,1,Oasis,Rock'N'Roll Star,Familiar To Millions Disc 2,279
-PLAY 02,2,Alice In Chains,Man In The Box,Facelift,274
-PLAY 02,3,Hole,Violet,Live Through This,204
-PLAY 02,4,Weezer,Hash Pipe,Weezer (Green Album),186
-PLAY 02,5,Garbage,Stupid Girl,Garbage,258
-PLAY 02,6,Duran Duran,Save a Prayer,Decade,329
-PLAY 02,7,The Cure,Lullaby,Greatest Hits,248
-PLAY 02,8,Legião Urbana,O Teatro Dos Vampiros,Legiao Urbana V,217
-PLAY 02,9,Guns N' Roses,Sweet Child O' Mine,Appetite For Destruction,354
-PLAY 02,10,Iron Maiden,Fear Of The Dark (1998 Remastered Version),Fear Of The Dark (1998 Remastered Edition),436
-PLAY 02,11,Skid Row,Wasted Time,Slave to the Grind,348
-PLAY 02,12,The Smashing Pumpkins,1979,Mellon Collie And The Infinite Sadness (Remastered),266
-PLAY 02,13,Planet Hemp,Contexto,A Invasão do Sagaz Homem Fumaça,227
-PLAY 02,14,Beck,Where It's At,Odelay,329
-PLAY 02,15,Radiohead,No Surprises,OK Computer (Collector's Edition),229
-PLAY 02,16,No Doubt,Don't Speak,Tragic Kingdom,263
-PLAY 02,17,Titãs,Os cegos do castelo,Acústico MTV,296
-PLAY 02,18,Pato Fu,Eu Sei,Televisão de Cachorro,185
-PLAY 02,19,Done Again,Bizarre Love Triangle (In the Style of Frente!) [Performance Track with Demonstration Vocals],Bizarre Love Triangle (In the Style of Frente!) [Performance Track with Demonstration Vocals],114
-PLAY 02,20,Pearl Jam,Crazy Mary,Sweet Relief - A Benefit For Victoria Williams,337
-PLAY 03,1,Guns N' Roses,Welcome To The Jungle,Appetite For Destruction (Explicit Version),273
-PLAY 03,2,Black Sabbath,Sabbath Bloody Sabbath,Sabbath Bloody Sabbath,345
-PLAY 03,3,L7,Pretend We're Dead,Bricks Are Heavy,235
-PLAY 03,4,The Smashing Pumpkins,Bullet With Butterfly Wings,Mellon Collie And The Infinite Sadness (Remastered),256
-PLAY 03,5,Nirvana,Lithium,Nevermind,257
-PLAY 03,6,Soundgarden,Black Hole Sun,Telephantasm (Deluxe Edition),317
-PLAY 03,7,Coldplay,In My Place,A Rush of Blood to the Head,226
-PLAY 03,8,Spin Doctors,Little Miss Can't Be Wrong,Two Princes - The Best Of,232
-PLAY 03,9,Red Hot Chili Peppers,Breaking the Girl,Blood Sugar Sex Magik (Deluxe Edition),295
-PLAY 03,10,Pearl Jam,Last Kiss,Lost Dogs,195
-PLAY 03,11,Legião Urbana,O Mundo Anda Tão Complicado,Legiao Urbana V,226
-PLAY 03,12,Alanis Morissette,Hand in My Pocket,Jagged Little Pill,221
-PLAY 03,13,Garbage,Only Happy When It Rains,Garbage,236
-PLAY 03,14,Alice in Chains,What the Hell Have I,Nothing Safe - The Best Of The Box,237
-PLAY 03,15,Planet Hemp,Dig Dig Dig (Hempa),Usuario,112
-PLAY 03,16,No Doubt,Just A Girl,Tragic Kingdom,208
-PLAY 03,17,Gorillaz,19-2000,Gorillaz,210
-PLAY 03,18,U2,New Year's Day,War (Deluxe Edition Remastered),335
-PLAY 03,19,Men at Work,Down Under,The Best Of Men At Work: Contraband,220
-PLAY 03,20,Oasis,Champagne Supernova,Stop The Clocks,449
-PLAY 04,1,311,Down,311,172
-PLAY 04,2,The Black Crowes,Remedy,The Southern Harmony And Musical Companion,322
-PLAY 04,3,Sonic Youth,100%,Dirty,149
-PLAY 04,4,Sugar Ray,RPM,Floored,201
-PLAY 04,5,Stone Temple Pilots,Big Bang Baby,Tiny Music...Songs from the Vatican Gift Shop,202
-PLAY 04,6,Oasis,Don't Look Back in Anger,(What's The Story) Morning Glory? (Remastered),289
-PLAY 04,7,Red Hot Chili Peppers,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),264
-PLAY 04,8,Foo Fighters,Walking After You,The Colour And The Shape,249
-PLAY 04,9,Guns N' Roses,Knockin' On Heaven's Door,Greatest Hits,336
-PLAY 04,10,Pearl Jam,Even Flow,Only Success,320
-PLAY 04,11,Alice in Chains,Would?,Dirt,206
-PLAY 04,12,Extreme,Rest In Peace,III Sides To Every Story,361
-PLAY 04,13,Jamiroquai,Alright,Travelling Without Moving,243
-PLAY 04,14,CAKE,Never There,Prolonging the Magic,164
-PLAY 04,15,Collective Soul,Shine,Hints, Allegations & Things Left Unsaid,306
-PLAY 04,16,Capital Inicial,Fátima,Capital Inicial,229
-PLAY 04,17,Pato Fu,Sobre o Tempo,Gol de Quem?,207
-PLAY 04,18,The Cranberries,Dreams,Gold,273
-PLAY 04,19,Alanis Morissette,That I Would Be Good,Supposed Former Infatuation Junkie,256
-PLAY 04,20,Bush,Glycerine,Sixteen Stone,267
-PLAY 05,1,The Cranberries,Zombie,No Need To Argue (The Complete Sessions 1994-1995),306
-PLAY 05,2,Nirvana,In Bloom,Nevermind,255
-PLAY 05,3,Foo Fighters,Learn to Fly,There Is Nothing Left To Lose,238
-PLAY 05,4,U2,Sunday Bloody Sunday,War (Deluxe Edition Remastered),279
-PLAY 05,5,Alanis Morissette,You Oughta Know,Jagged Little Pill,249
-PLAY 05,6,Radiohead,Fake Plastic Trees,The Bends (Collector's Edition),291
-PLAY 05,7,Information Society,Repetition,Information Society (CD+G),274
-PLAY 05,8,Extreme,More Than Words,Extreme II - Pornograffitti,334
-PLAY 05,9,Guns N' Roses,Civil War,Use Your Illusion II (Explicit Version),462
-PLAY 05,10,Garbage,I Think I'm Paranoid,Version 2.0,218
-PLAY 05,11,The Offspring,Pretty Fly (For a White Guy),Americana,188
-PLAY 05,12,Deep Purple,Smoke on the Water,Deepest Purple: The Very Best of Deep Purple,337
-PLAY 05,13,The Doors,Roadhouse Blues,Morrison Hotel,243
-PLAY 05,14,Eric Clapton,Layla,Complete Clapton,428
-PLAY 05,15,Dire Straits,Sultans Of Swing,The Best Of Dire Straits & Mark Knopfler - Private Investigations,348
-PLAY 05,16,Eurythmics,Sweet Dreams (Are Made of This),Greatest Hits,293
-PLAY 05,17,R.E.M.,Drive,Automatic For The People (U.S. Version),271
-PLAY 05,18,John Lennon,Imagine,Imagine,187
-PLAY 05,19,Creedence Clearwater Revival,Have You Ever Seen The Rain,Creedence Clearwater Revival - Best Of,159
-PLAY 05,20,Black Sabbath,Changes,Black Sabbath Vol.4,281
-PLAY 06,1,Foo Fighters,Everlong,The Colour And The Shape (Special Edition),250
-PLAY 06,2,Helmet,Milktoast,The Crow Original Motion Picture Soundtrack,239
-PLAY 06,3,Live,Lakini's Juice,Secret Samadhi,299
-PLAY 06,4,Butthole Surfers,Pepper,Electriclarryland,297
-PLAY 06,5,Muse,Uprising,The Resistance,304
-PLAY 06,6,Oasis,Supersonic,Definitely Maybe,283
-PLAY 06,7,Alice in Chains,Got Me Wrong,Unplugged,300
-PLAY 06,8,Beck,Loser,Mellow Gold,234
-PLAY 06,9,Pearl Jam,Jeremy,Only Success,316
-PLAY 06,10,Temple of the Dog,Hunger Strike,Temple Of The Dog,243
-PLAY 06,11,Type O Negative,Christian Woman,Bloody Kisses,538
-PLAY 06,12,Bush,Machinehead,Sixteen Stone,256
-PLAY 06,13,Collective Soul,Gel,Collective Soul,178
-PLAY 06,14,The Presidents of the United States of America,Lump,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,134
-PLAY 06,15,Blur,Beetlebum,Blur,305
-PLAY 06,16,Stone Temple Pilots,Interstate Love Song,Purple,193
-PLAY 06,17,Suicidal Tendencies,I'll Hate You Better,The Art Of Rebellion,256
-PLAY 06,18,Sonic Youth,Bull In The Heather,Experimental Jet Set, Trash And No Star,184
-PLAY 06,19,Redd Kross,Yesterday Once More,If I Were A Carpenter,239
-PLAY 06,20,The Cure,Close To Me,Greatest Hits,219
-PLAY 07,1,Pearl Jam,Alive,Only Success,286
-PLAY 07,2,Tracy Bonham,Mother, Mother,Maximum Edge - '90s Modern Rock,182
-PLAY 07,3,Foo Fighters,My Hero,The Colour And The Shape,260
-PLAY 07,4,Soundgarden,Spoonman,Telephantasm,246
-PLAY 07,5,Green Day,Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,262
-PLAY 07,6,Guns N' Roses,Used To Love Her,G N' R Lies,193
-PLAY 07,7,The Offspring,Why Don't You Get a Job?,Americana,171
-PLAY 07,8,Angra,Wuthering Heights,Angels Cry,279
-PLAY 07,9,Ugly Kid Joe,Cats In The Cradle,America's Least Wanted,242
-PLAY 07,10,Pink Floyd,Wish You Were Here,The Discovery Boxset (2011 Remastered Edition),334
-PLAY 07,11,Oasis,Acquiesce,The Masterplan,264
-PLAY 07,12,Sex Pistols,God Save The Queen,Never Mind The Bollocks, Here's The Sex Pistols,199
-PLAY 07,13,Helmet,Unsung,Meantime,237
-PLAY 07,14,Live,I Alone,Best Of Live,218
-PLAY 07,15,The Presidents of the United States of America,Peaches,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,171
-PLAY 07,16,Extreme,Hole Hearted,Extreme II - Pornograffitti,219
-PLAY 07,17,Beck,Beercan,Mellow Gold,240
-PLAY 07,18,The Verve,Sonnet,Urban Hymns,261
-PLAY 07,19,Collective Soul,The World I Know (45 version),The World I Know / Smashing Young Man [Digital 45],256
-PLAY 07,20,Sonic Youth,Superstar,If I Were A Carpenter,248
-PLAY 08,1,Mad Season,I Don't Know Anything,Above (Deluxe Edition),383
-PLAY 08,2,Guns N' Roses,You Could Be Mine,Use Your Illusion II (Explicit Version),344
-PLAY 08,3,Jon Bon Jovi,Blaze Of Glory,Blaze Of Glory,335
-PLAY 08,4,Bryan Adams,Heaven,So Far So Good,243
-PLAY 08,5,Fine Young Cannibals,She Drives Me Crazy,The Raw And The Cooked,215
-PLAY 08,6,Stone Temple Pilots,Dancing Days,Encomium (A Tribute To Led Zeppelin),227
-PLAY 08,7,Red Hot Chili Peppers,Soul to Squeeze,Greatest Hits,289
-PLAY 08,8,Alanis Morissette,Thank U,Supposed Former Infatuation Junkie,258
-PLAY 08,9,U2,I Still Haven't Found What I'm Looking For,The Joshua Tree,277
-PLAY 08,10,Screaming Trees,Dollar Bill,Sweet Oblivion,274
-PLAY 08,11,Radiohead,Creep,The Best Of,238
-PLAY 08,12,The Lemonheads,Into Your Arms,Come On Feel The Lemonheads,164
-PLAY 08,13,Foo Fighters,Big Me,Foo Fighters,132
-PLAY 08,14,Sonic Youth,Sugar Kane,Dirty,357
-PLAY 08,15,Nine Inch Nails,Closer,The Downward Spiral,373
-PLAY 08,16,Rollins Band,Liar,Weight,291
-PLAY 08,17,Blind Melon,Tones Of Home,Blind Melon,267
-PLAY 08,18,Blur,Coffee & TV,13 (Special Edition),358
-PLAY 08,19,The Black Crowes,Thorn In My Pride,The Southern Harmony And Musical Companion,363
-PLAY 08,20,Type O Negative,Black No. 1 (Little Miss Scare -All),Bloody Kisses,675
-PLAY 09,1,Stone Temple Pilots,Sex Type Thing,Core,218
-PLAY 09,2,Redd Kross,Jimmy's Fantasy,Phaseshifter,226
-PLAY 09,3,Nine Inch Nails,Burn,Natural Born Killers,295
-PLAY 09,4,Republica,Ready to Go,Ready To Go,301
-PLAY 09,5,Chico Science,A Praieira,Da Lama Ao Caos,216
-PLAY 09,6,Alanis Morissette,You Learn,Jagged Little Pill,239
-PLAY 09,7,The Police,Every Breath You Take,The Police,254
-PLAY 09,8,Pink Floyd,Time,The Discovery Boxset (2011 Remastered Edition),413
-PLAY 09,9,a-ha,Stay on These Roads,Stay on These Roads,284
-PLAY 09,10,Sheryl Crow,Sweet Child O' Mine,The Globe Sessions,239
-PLAY 09,11,Nirvana,Molly's Lips,Incesticide,111
-PLAY 09,12,Weezer,Buddy Holly,Weezer,159
-PLAY 09,13,Jamiroquai,Deeper Underground,High Times: Singles 1992-2006,284
-PLAY 09,14,CAKE,I Will Survive,Fashion Nugget,310
-PLAY 09,15,The Doors,People Are Strange,Strange Days,130
-PLAY 09,16,Alice in Chains,No Excuses,Jar Of Flies,255
-PLAY 09,17,Sublime,Santeria,Sublime (Deluxe Edition),183
-PLAY 09,18,Nenhum de Nos,Astronauta De Mármore,Cardume,196
-PLAY 09,19,Guns N' Roses,Estranged,Use Your Illusion II (Explicit Version),564
-PLAY 09,20,Oasis,Fuckin' In the Bushes,Standing On The Shoulder Of Giants,198
-PLAY 10,1,The Smashing Pumpkins,The Beginning Is The End Is The Beginning,Adore (Super Deluxe),300
-PLAY 10,2,L7,Everglade,Bricks Are Heavy,196
-PLAY 10,3,Red Hot Chili Peppers,Suck My Kiss,Blood Sugar Sex Magik,217
-PLAY 10,4,Rage Against the Machine,Bulls On Parade,Evil Empire,229
-PLAY 10,5,Stone Temple Pilots,Wicked Garden,Core,245
-PLAY 10,6,Nirvana,Sliver,Incesticide,132
-PLAY 10,7,Alice in Chains,Heaven Beside You,Alice In Chains,327
-PLAY 10,8,Alanis Morissette,Joining You,Live / Unplugged,309
-PLAY 10,9,Os Paralamas do Sucesso,Lanterna Dos Afogados,Arquivo,190
-PLAY 10,10,Guns N' Roses,November Rain,Use Your Illusion I,537
-PLAY 10,11,Faith No More,Edge of the World,Live at the Brixton Academy,350
-PLAY 10,12,The Breeders,Cannonball,Last Splash,215
-PLAY 10,13,Raimundos,Nêga Jurema,Raimundos,113
-PLAY 10,14,Silverchair,Freak,Freak Show/Neon Ballroom,226
-PLAY 10,15,Metallica,Wherever I May Roam,Metallica,403
-PLAY 10,16,Suicidal Tendencies,Nobody Hears,The Art Of Rebellion,332
-PLAY 10,17,Pato Fu,Canção Pra Você Viver Mais,Televisão de Cachorro,324
-PLAY 10,18,R.E.M.,Everybody Hurts,Automatic For The People (U.S. Version),318
-PLAY 10,19,Garbage,Milk,Garbage,232
-PLAY 10,20,Sinéad O'Connor,Nothing Compares 2 U,I Do Not Want What I Haven't Got,280
-PLAY 11,1,White Zombie,More Human Than Human,Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head,268
-PLAY 11,2,Foo Fighters,I'll Stick Around,Foo Fighters,232
-PLAY 11,3,Guns N' Roses,Paradise City,Appetite For Destruction,405
-PLAY 11,4,Beastie Boys,Sabotage,Ill Communication,178
-PLAY 11,5,Tears for Fears,Break It Down Again,Elemental,271
-PLAY 11,6,Alice in Chains,I Stay Away,Jar Of Flies,254
-PLAY 11,7,Oasis,Wonderwall,Stop The Clocks,258
-PLAY 11,8,Capital Inicial,Primeiros Erros (Chove),Acústico MTV,240
-PLAY 11,9,Engenheiros do Hawaii,Somos Quem Podemos Ser,Ouça O Que Eu Digo: Não Ouça Ninguém,158
-PLAY 11,10,Coldplay,God Put a Smile upon Your Face,A Rush of Blood to the Head,297
-PLAY 11,11,Green Day,When I Come Around,Woodstock 94 Disc 1,170
-PLAY 11,12,Live,White, Discussion,Throwing Copper,366
-PLAY 11,13,Ramones,Pet Sematary,Essential,209
-PLAY 11,14,R.E.M.,The One I Love,Document - 25th Anniversary Edition,197
-PLAY 11,15,Pink Floyd,Another Brick in the Wall, Pt. 1,The Wall Disc 1,345
-PLAY 11,16,Queen,Radio Ga Ga,Greatest Hits II (2011 Remaster),343
-PLAY 11,17,Titãs,Marvin (Patches),Titãs 84 94 Um,265
-PLAY 11,18,Barão Vermelho,O Poeta Está Vivo,Na Calada da Noite,261
-PLAY 11,19,U2,One,Achtung Baby (Deluxe Edition),276
-PLAY 11,20,Temple of the Dog,Say Hello 2 Heaven,Temple Of The Dog,382
-PLAY 12,1,Black Sabbath,Paranoid,Paranoid,168
-PLAY 12,2,Ministry,N.W.O.,KE*A*H** (Psalm 69),330
-PLAY 12,3,Rage Against the Machine,No Shelter,Godzilla - The Album,243
-PLAY 12,4,Stone Temple Pilots,Vasoline,Purple,174
-PLAY 12,5,Hole,Miss World,Live Through This,179
-PLAY 12,6,t.A.T.u.,All The Things She Said,t.A.T.u. - The Best,212
-PLAY 12,7,Os Paralamas do Sucesso,Selvagem,Arquivo,245
-PLAY 12,8,Ira!,Dias de luta,Dose Dupla Ira!,268
-PLAY 12,9,Iggy Pop,Candy,Brick By Brick,253
-PLAY 12,10,The Wallflowers,6th Avenue Heartache,Bringing Down The Horse,337
-PLAY 12,11,Beck,Pay No Mind (Snoozer),Mellow Gold,194
-PLAY 12,12,Eminem,Cleanin' Out My Closet,The Eminem Show,297
-PLAY 12,13,Sheryl Crow,D'yer Mak'er,Tuesday Night Music Club (Deluxe Edition),260
-PLAY 12,14,Skid Row,I Remember You,Skid Row,313
-PLAY 12,15,KISS,Forever,The Very Best Of Kiss,229
-PLAY 12,16,Dire Straits,So Far Away,Brothers In Arms,305
-PLAY 12,17,Queen,I Want To Break Free,Greatest Hits II (2011 Remaster),258
-PLAY 12,18,Men at Work,It's a Mistake,The Best Of Men At Work: Contraband,271
-PLAY 12,19,The Cranberries,Linger,Gold,275
-PLAY 13,1,Helmet,Just Another Victim,Judgement Night: Music From The Motion Picture,261
-PLAY 13,2,Screaming Trees,Shadow of the Season,Sweet Oblivion,273
-PLAY 13,3,Raimundos,A mais pedida (Participação especial de Érica Martins),So No Forevis,233
-PLAY 13,4,Candlebox,Far Behind,Candlebox,299
-PLAY 13,5,Radiohead,Stop Whispering,Pablo Honey,247
-PLAY 13,6,Queensrÿche,Silent Lucidity,Empire - 20th Anniversary Edition,347
-PLAY 13,7,Queen,Love of My Life,Live in Budapest,223
-PLAY 13,8,Us3,Cantaloop (Flip Fantasia),Hand On The Torch,279
-PLAY 13,9,EMF,Unbelievable,Schubert Dip,209
-PLAY 13,10,Erasure,A Little Respect,Total Pop! - The First 40 Hits (Remastered),212
-PLAY 13,11,The Soup Dragons,I'm Free,Lovegod (Deluxe / Remastered),238
-PLAY 13,12,Peter Gabriel,Sledgehammer,So,274
-PLAY 13,13,Deee-Lite,Groove Is in the Heart,The Very Best of Deee-Lite,231
-PLAY 13,14,George Michael,Freedom! '90,Listen Without Prejudice Vol. 1,390
-PLAY 13,15,Stereo MC's,Connected,Connected,315
-PLAY 13,16,Depeche Mode,Just Can't Get Enough,The Best of Depeche Mode, Vol. 1 (Deluxe),220
-PLAY 13,17,The Smiths,The Boy with the Thorn in His Side,The Sound of the Smiths (Deluxe; 2008 Remaster),198
-PLAY 13,18,Jesus Jones,Right Here Right Now,Doubt,189
-PLAY 13,19,Guns N' Roses,It's Alright,Live Era '87-'93,187
-PLAY 13,20,Youssou N'Dour,7 Seconds,The Guide (Wommat),306
-PLAY 14,1,Sex Pistols,Anarchy In The UK,Never Mind The Bollocks, Here’s The Sex Pistols,212
-PLAY 14,2,Faith No More,Another Body Murdered,Judgement Night: Music From The Motion Picture,261
-PLAY 14,3,Screaming Trees,Nearly Lost You,Sweet Oblivion,247
-PLAY 14,4,Candlebox,You,Candlebox,297
-PLAY 14,5,Deep Purple,Perfect Strangers,Perfect Strangers,328
-PLAY 14,6,Soundgarden,Fell On Black Days,Superunknown,285
-PLAY 14,7,Stone Temple Pilots,Creep,Core,306
-PLAY 14,8,Led Zeppelin,All My Love,In Through the out Door (1994 Remaster),351
-PLAY 14,9,The Mission,Severina,God's Own Medicine,261
-PLAY 14,10,Alice in Chains,Over Now,Alice In Chains,421
-PLAY 14,11,Raimundos,Be a Ba,Raimundos,151
-PLAY 14,12,Collective Soul,Where The River Flows,Collective Soul,215
-PLAY 14,13,Blur,There's No Other Way,Leisure,204
-PLAY 14,14,Pitty,Equalize,Admirável Chip Novo,232
-PLAY 14,15,Capital Inicial,Fogo,Você Não Precisa Entender,280
-PLAY 14,16,Nirvana,The Man Who Sold The World,MTV Unplugged In New York,260
-PLAY 14,17,Foreigner,I Want to Know What Love Is,No End in Sight: The Very Best of Foreigner,301
-PLAY 14,18,U2,Stay (Faraway, So Close!),Zooropa,298
-PLAY 14,19,Bryan Adams,(Everything I Do) I Do It For You,So Far So Good,393
-PLAY 14,20,Queen,Bohemian Rhapsody,Greatest Hits (2011 Remaster),355
-PLAY 15,1,Deep Purple,Highway Star,Deepest Purple: The Very Best of Deep Purple,367
-PLAY 15,2,L7,Shitlist,Bricks Are Heavy,175
-PLAY 15,3,Soundgarden,My Wave,Telephantasm,313
-PLAY 15,4,System of a Down,Toxicity,Toxicity,218
-PLAY 15,5,Skid Row,18 and Life,Skid Row,229
-PLAY 15,6,Metallica,The Unforgiven,Metallica,386
-PLAY 15,7,Iron Maiden,Wasting Love (1998 Remastered Version),Fear Of The Dark (1998 Remastered Edition),350
-PLAY 15,8,Radiohead,High and Dry,The Bends (Collector's Edition),257
-PLAY 15,9,Porno For Pyros,Pets,Porno For Pyros,216
-PLAY 15,10,Bloodhound Gang,The Bad Touch,Hooray For Boobies (Explicit Version),261
-PLAY 15,11,INXS,Need You Tonight,Classic D.J. Mix, Vol. 1,181
-PLAY 15,12,Beck,Devils Haircut,Odelay (Deluxe Edition),195
-PLAY 15,13,No Doubt,Hella Good,Rock Steady,243
-PLAY 15,14,Coldplay,Clocks,A Rush of Blood to the Head,307
-PLAY 15,15,Seal,Crazy,Hits,356
-PLAY 15,16,R.E.M.,Losing My Religion,Out Of Time (U.S. Version),267
-PLAY 15,17,Guns N' Roses,Patience,Greatest Hits,356
-PLAY 15,18,The Smashing Pumpkins,Rhinoceros,Gish,390
-PLAY 15,19,Legião Urbana,Angra Dos Reis,Que Pais E Este,301
-PLAY 15,20,U2,Bad,The Unforgettable Fire (Remastered),368
-PLAY 16,1,Led Zeppelin,Rock and Roll,Led Zeppelin IV (Deluxe Edition),220
-PLAY 16,2,Sepultura,Territory,Chaos A.D.,287
-PLAY 16,3,System of a Down,B.Y.O.B.,Mezmerize,255
-PLAY 16,4,Soul Asylum,Somebody to Shove,Grave Dancers Union,194
-PLAY 16,5,Gorillaz,Clint Eastwood,Gorillaz,340
-PLAY 16,6,Eminem,Without Me,The Eminem Show,290
-PLAY 16,7,Bon Jovi,I'll Be There For You,Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package),346
-PLAY 16,8,Ozzy Osbourne,Mama, I'm Coming Home,No More Tears,251
-PLAY 16,9,Duran Duran,A Matter of Feeling,Notorious (Deluxe Edition),357
-PLAY 16,10,The Smashing Pumpkins,Perfect,(Rotten Apples) The Smashing Pumpkins Greatest Hits,202
-PLAY 16,11,Garbage,Push It,Version 2.0,242
-PLAY 16,12,Barão Vermelho,Pense e dance,Carnaval,239
-PLAY 16,13,Titãs,Hereditário,Titanomaquia,126
-PLAY 16,14,Us3,Tukka Yoot's Riddim,Hand On The Torch,341
-PLAY 16,15,Stereo MC's,Step It Up,Connected,303
-PLAY 16,16,Chico Science & Nação Zumbi,Maracatu Atômico,Afrociberdelia,284
-PLAY 16,17,Faith No More,Take This Bottle,King for a Day, Fool for a Lifetime,299
-PLAY 16,18,Shocking Blue,Venus,Greatest Hits Of Shocking Blue,187
-PLAY 16,19,Creedence Clearwater Revival,Proud Mary,Creedence Clearwater Revival - Best Of,186
-PLAY 16,20,The Bangles,Eternal Flame,Collections,235
-PLAY 17,1,Foo Fighters,Best of You,In Your Honour,255
-PLAY 17,2,Pearl Jam,Do The Evolution,Only Success,246
-PLAY 17,3,Nirvana,Come As You Are,Nevermind,218
-PLAY 17,4,The Smashing Pumpkins,Today,Siamese Dream (2011 - Remaster),201
-PLAY 17,5,Guns N' Roses,Don't Cry (Original),Use Your Illusion I,284
-PLAY 17,6,Oasis,Live Forever,Definitely Maybe,276
-PLAY 17,7,Live,Lightning Crashes,Throwing Copper,325
-PLAY 17,8,Coldplay,A Rush of Blood to the Head,A Rush of Blood to the Head,351
-PLAY 17,9,U2,With Or Without You,The Joshua Tree,295
-PLAY 17,10,Tears for Fears,Sowing The Seeds Of Love,The Seeds Of Love (Remastered with bonus tracks),376
-PLAY 17,11,Ozzy Osbourne,No More Tears,No More Tears,443
-PLAY 17,12,Eminem,Lose Yourself,Curtain Call: The Hits,326
-PLAY 17,13,Screaming Trees,Butterfly,Sweet Oblivion,202
-PLAY 17,14,Jon Bon Jovi,Miracle,Blaze Of Glory,319
-PLAY 17,15,Izzy Stradlin And The Ju Ju Hounds,Shuffle It All,Izzy Stradlin And The Ju Ju Hounds,380
-PLAY 17,16,Dire Straits,Money For Nothing,Brothers In Arms,505
-PLAY 17,17,The Doors,Light My Fire,The Doors,425
-PLAY 17,18,Led Zeppelin,Kashmir,Physical Graffiti (Deluxe Edition),517
-PLAY 17,19,Eagles,Hotel California,Hotel California (2013 Remaster),391
-PLAY 18,1,The Prodigy,Breathe,The Fat of the Land,334
-PLAY 18,2,Body Count,Body Count's in the House,Body Count,204
-PLAY 18,3,Eminem,Guilty Conscience,The Slim Shady LP,214
-PLAY 18,4,Red Hot Chili Peppers,Around the World,Californication,238
-PLAY 18,5,Redd Kross,Ms. Lady Evans,Phaseshifter,169
-PLAY 18,6,Pitty,Déjà Vu,Anacrônico,258
-PLAY 18,7,Metallica,One,...And Justice for All,446
-PLAY 18,8,Led Zeppelin,Stairway to Heaven,Led Zeppelin IV (Deluxe Edition),482
-PLAY 18,9,Weezer,Say It Ain't So,Weezer,258
-PLAY 18,10,Blur,End of a Century,Parklife,165
-PLAY 18,11,Joan Osborne,One Of Us,Relish,321
-PLAY 18,12,Blind Melon,No Rain,Blind Melon,217
-PLAY 18,13,Maskavo,Um Anjo do Céu,Já,199
-PLAY 18,14,Depeche Mode,Strangelove,Music for the Masses,297
-PLAY 18,15,Phil Collins,I Wish It Would Rain Down,...Hits,328
-PLAY 18,16,Roxette,It Must Have Been Love,The Ballad Hits,258
-PLAY 18,17,Eurythmics,There Must Be an Angel (Playing With My Heart),Greatest Hits,280
-PLAY 18,18,Björk,Venus As A Boy,Debut,282
-PLAY 18,19,The Ronettes,Be My Baby,Be My Baby: The Very Best of The Ronettes,160
-PLAY 18,20,The Mamas & The Papas,California Dreamin',If You Can Believe Your Eyes And Ears,157
-PLAY 19,1,The Hives,Hate To Say I Told You So,Veni Vidi Vicious,199
-PLAY 19,2,Sepultura,Orgasmatron,Arise,254
-PLAY 19,3,System of a Down,Chop Suey!,Toxicity,210
-PLAY 19,4,Soundgarden,The Day I Tried To Live,Superunknown (20th Anniversary),320
-PLAY 19,5,Alice in Chains,Down In A Hole,Dirt,338
-PLAY 19,6,Pantera,This Love,Vulgar Display of Power,393
-PLAY 19,7,Danzig,Cantspeak,Danzig 4,246
-PLAY 19,8,Alanis Morissette,Uninvited,City of Angels (Music from the Motion Picture),275
-PLAY 19,9,Legião Urbana,Quase Sem Querer,Dois,280
-PLAY 19,10,Engenheiros do Hawaii,Infinita Highway,A Revolta Dos Dandis,372
-PLAY 19,11,Iron Maiden,The Number Of The Beast (1998 Remastered Version),The Number Of The Beast (1998 Remastered Edition),291
-PLAY 19,12,Black Sabbath,Iron Man,Paranoid,354
-PLAY 19,13,Led Zeppelin,Whole Lotta Love,Led Zeppelin II (Deluxe Edition),334
-PLAY 19,14,Suede,So Young,Suede Singles Disc 1,217
-PLAY 19,15,Massive Attack,Protection,Protection,471
-PLAY 19,16,Eminem,Stan,The Marshall Mathers LP,404
-PLAY 19,17,Coldplay,Yellow,Parachutes,266
-PLAY 19,18,Phil Collins,Another Day In Paradise,...Hits,322
-PLAY 19,19,George Michael,Careless Whisper,Twenty Five,303
-PLAY 19,20,Debbie Gibson,Lost in Your Eyes,Greatest Hits,213
-PLAY 20,1,White Zombie,Welcome To Planet Motherfucker/ Psychoholic Slag,La Sexorcisto: Devil Music Volume 1,381
-PLAY 20,2,Sepultura,Refuse / Resist,Chaos A.D.,199
-PLAY 20,3,System of a Down,Aerials,Toxicity,371
-PLAY 20,4,The White Stripes,Seven Nation Army,Elephant,231
-PLAY 20,5,Beck,E-Pro,Guero,202
-PLAY 20,6,Audioslave,Like a Stone,Audioslave,294
-PLAY 20,7,Massive Attack,Angel,Mezzanine,379
-PLAY 20,8,Coldplay,The Scientist,A Rush of Blood to the Head,309
-PLAY 20,9,Evanescence,My Immortal,Fallen,273
-PLAY 20,10,Limp Bizkit,Behind Blue Eyes,Behind Blue Eyes (International Version),271
-PLAY 20,11,Van Halen,Jump,1984,239
-PLAY 20,12,Aerosmith,Dream On,Music From The Original Motion Picture Last Action Hero,342
-PLAY 20,13,Oingo Boingo,Stay,Dead Man's Party,217
-PLAY 20,14,Spin Doctors,Two Princes,Just Go Ahead Now: A Retrospective,257
-PLAY 20,15,Duran Duran,Union of the Snake,Decade,264
-PLAY 20,16,Eminem,The Real Slim Shady,Curtain Call: The Hits,284
-PLAY 20,17,U2,Staring At The Sun,Pop,276
-PLAY 20,18,Red Hot Chili Peppers,Scar Tissue,Californication,215
-PLAY 20,19,Jamiroquai,Virtual Insanity (Album Version),Travelling Without Moving,340
-PLAY 20,20,Billy Idol,Eyes Without A Face,The Very Best Of Billy Idol: Idolize Yourself,298
-PLAY 21,1,Alice in Chains,Them Bones,Dirt,149
-PLAY 21,2,Soundgarden,Outshined,Badmotorfinger,310
-PLAY 21,3,The Offspring,Bad Habit,Smash,223
-PLAY 21,4,Lenny Kravitz,Fly Away,5,221
-PLAY 21,5,Live,The Dolphin's Cry,The Distance To Here,264
-PLAY 21,6,Tears for Fears,Woman In Chains,The Seeds Of Love (Remastered with bonus tracks),393
-PLAY 21,7,The Smashing Pumpkins,Disarm,Siamese Dream (2011 - Remaster),196
-PLAY 21,8,Depeche Mode,Enjoy the Silence,Violator,372
-PLAY 21,9,The Human League,Human,The Very Best Of The Human League,229
-PLAY 21,10,Men at Work,Who Can It Be Now?,The Best Of Men At Work: Contraband,200
-PLAY 21,11,Blur,Parklife,Parklife,185
-PLAY 21,12,Green Day,Walking Contradiction,Insomniac,151
-PLAY 21,13,The London Suede,Animal Nitrate,The Best Of,205
-PLAY 21,14,Sheryl Crow,If It Makes You Happy,Sheryl Crow,323
-PLAY 21,15,Faith No More,A Small Victory,Angel Dust,297
-PLAY 21,16,The Mission,Like A Child Again,Masque,217
-PLAY 21,17,Pearl Jam,Better Man,Vitalogy,268
-PLAY 21,18,Coldplay,Don't Panic,Parachutes,136
-PLAY 21,19,Suzanne Vega,Luka,Solitude Standing,231
-PLAY 21,20,Tracy Chapman,Baby Can I Hold You,Tracy Chapman,193
-PLAY 22,1,Nirvana,Smells Like Teen Spirit,Nirvana (International Version),300
-PLAY 22,2,Lenny Kravitz,Always On The Run,Mama Said,233
-PLAY 22,3,Soundgarden,Show Me,Fresh Deadly Rarities,169
-PLAY 22,4,Suede,The Drowners,Suede (Remastered) - Deluxe Edition,251
-PLAY 22,5,Aerosmith,Janie's Got A Gun,Big Ones,329
-PLAY 22,6,Faith No More,Epic,Original Album Series,293
-PLAY 22,7,Guns N' Roses,Yesterdays,Use Your Illusion II (Explicit Version),196
-PLAY 22,8,Green Day,Wake Me Up When September Ends,American Idiot,286
-PLAY 22,9,Pearl Jam,Black,Ten,342
-PLAY 22,10,Depeche Mode,Condemnation,The Singles 86-98,201
-PLAY 22,11,Queen,We Will Rock You,Greatest Hits (2011 Remaster),121
-PLAY 22,12,Metallica,Master Of Puppets,Master Of Puppets (Remastered),515
-PLAY 22,13,Hole,Celebrity Skin,Celebrity Skin,162
-PLAY 22,14,Alice in Chains,Angry Chair,Greatest Hits,288
-PLAY 22,15,Tears for Fears,Head Over Heels,Tears Roll Down (Greatest Hits 82-92),254
-PLAY 22,16,The Cure,Boys Don't Cry,Greatest Hits,163
-PLAY 22,17,Live,Turn My Head,Best Of Live,234
-PLAY 22,18,INXS,Never Tear Us Apart,100 Essential Love Songs (Online version),181
-PLAY 22,19,Men at Work,Overkill,Cargo,226
-PLAY 22,20,Mariah Carey,Without You,Greatest Hits,214
-PLAY 23,1,Erasure,Stop!,Pop! The First 20 Hits,341
-PLAY 23,2,New Order,Blue Monday '88,The Best of New Order,244
-PLAY 23,3,Information Society,Think,Hits,234
-PLAY 23,4,Noel,Silent Morning,Noel,264
-PLAY 23,5,Depeche Mode,Never Let Me Down Again,The Singles 86-98,260
-PLAY 23,6,INXS,Original Sin,The Swing (Remastered),317
-PLAY 23,7,The B-52's,Love Shack,Nude On The Moon: The B-52's Anthology,321
-PLAY 23,8,Pet Shop Boys,It's a Sin,Discography - Complete Singles Collection,301
-PLAY 23,9,The Human League,Don't You Want Me,The Greatest Hits,238
-PLAY 23,10,Björk,Human Behaviour,Greatest Hits (Jewel Case Version),251
-PLAY 23,11,The Police,Every Little Thing She Does Is Magic,The Very Best Of Sting And The Police,260
-PLAY 23,12,Jamiroquai,Seven Days in Sunny June,High Times: Singles 1992-2006,240
-PLAY 23,13,The Smiths,Heaven Knows I'm Miserable Now,The Sound of the Smiths (Deluxe; 2008 Remaster),216
-PLAY 23,14,The Cure,Friday I'm In Love,Wish,215
-PLAY 23,15,R.E.M.,Shiny Happy People,Out Of Time (U.S. Version),226
-PLAY 23,16,Faith No More,I Started A Joke,Who Cares A Lot? The Greatest Hits,179
-PLAY 23,17,The Mission,Butterfly On A Wheel,Carved In Sand (2CD Set Reissue),342
-PLAY 23,18,Coldplay,Trouble,Parachutes,273
-PLAY 23,19,Crash Test Dummies,Mmm Mmm Mmm Mmm,The Best Of Crash Test Dummies,233
-PLAY 23,20,Counting Crows,Round Here,August And Everything After,331
-PLAY 24,1,Metallica,Enter Sandman,Metallica,331
-PLAY 24,2,Ozzy Osbourne,I Just Want You,Memoirs of a Madman,295
-PLAY 24,3,Faith No More,From out of Nowhere,Original Album Series,201
-PLAY 24,4,The Smashing Pumpkins,Siva,Gish (Deluxe Edition),259
-PLAY 24,5,Oasis,Cigarettes & Alcohol,Definitely Maybe,289
-PLAY 24,6,Stone Temple Pilots,Trippin' on a Hole in a Paper Heart,Tiny Music...Songs from the Vatican Gift Shop,175
-PLAY 24,7,The Offspring,Come Out and Play,Smash,197
-PLAY 24,8,INXS,Disappear,Classic 90's,248
-PLAY 24,9,Queen,Under Pressure,Greatest Hits II (2011 Remaster),236
-PLAY 24,10,The Cure,A Letter To Elise,Wish,312
-PLAY 24,11,Pearl Jam,Elderly Woman Behind the Counter in a Small Town (Remastered),Vs.,196
-PLAY 24,12,Green Day,Good Riddance (Time of Your Life),Nimrod,153
-PLAY 24,13,a-ha,Hunting High and Low,Hunting High and Low,228
-PLAY 24,14,Moby,In This World,18,242
-PLAY 24,15,Gorillaz,Feel Good Inc.,Demon Days,222
-PLAY 24,16,New Order,Round & Round '94,The Best of New Order,241
-PLAY 24,17,The B-52's,Legal Tender,Nude On The Moon: The B-52's Anthology,220
-PLAY 24,18,Depeche Mode,Useless,The Singles 86-98,292
-PLAY 24,19,Red Hot Chili Peppers,Blood Sugar Sex Magik,Blood Sugar Sex Magik (Deluxe Edition),271
-PLAY 24,20,Soundgarden,Head Down,Superunknown (Super Deluxe),369
-PLAY 25,1,Jane's Addiction,Been Caught Stealing,Ritual De Lo Habitual,214
-PLAY 25,2,Mudhoney,Suck You Dry,Piece Of Cake,154
-PLAY 25,3,Green Jellÿ,Three Little Pigs,Cereal Killer Soundtrack,353
-PLAY 25,4,Bloodhound Gang,Fire Water Burn,One Fierce Beer Coaster,291
-PLAY 25,5,Faith No More,Falling to Pieces,The Real Thing,313
-PLAY 25,6,Suede,Metal Mickey,Suede (Remastered) - Deluxe Edition,207
-PLAY 25,7,Depeche Mode,Walking in My Shoes,The Singles 86-98,301
-PLAY 25,8,Pearl Jam,Daughter (Remastered),Vs.,234
-PLAY 25,9,Metallica,Nothing Else Matters,Metallica,388
-PLAY 25,10,Beastie Boys,Fight For Your Right,Licensed To Ill,207
-PLAY 25,11,The Smashing Pumpkins,Geek U.S.A.,Siamese Dream (2011 - Remaster),313
-PLAY 25,12,The Offspring,Gotta Get Away,Smash,232
-PLAY 25,13,Charlie Brown Jr.,Só Por Uma Noite,Bocas Ordinárias,203
-PLAY 25,14,Maskavo Roots,Djorous,Se Não Guenta, Por Que Veio?,197
-PLAY 25,15,R.E.M.,The Sidewinder Sleeps Tonite,Automatic For The People (U.S. Version),248
-PLAY 25,16,The Cure,Inbetween Days,Greatest Hits,176
-PLAY 25,17,Raul Seixas,Tente Outra Vez,20 Grandes Sucessos De Raul Seixas,144
-PLAY 25,18,Camisa de Venus,So o fim,Camisa de Venus,270
-PLAY 25,19,a-ha,There's Never a Forever Thing,Stay on These Roads,171
-PLAY 25,20,Double Side,The Captain of Her Heart,The Colours of Love, Vol. 2,269
-PLAY 26,1,Faith No More,Ashes to Ashes,Album of the Year,217
-PLAY 26,2,Nirvana,Even In His Youth,Nevermind,183
-PLAY 26,3,Bush,Swallowed,Razorblade Suitcase,291
-PLAY 26,4,Living Colour,Type,Everything Is Possible: The Very Best of Living Colour,387
-PLAY 26,5,Pearl Jam,Given to Fly,Yield,238
-PLAY 26,6,Stone Temple Pilots,Lady Picture Show,Tiny Music...Songs from the Vatican Gift Shop,246
-PLAY 26,7,Soul Asylum,Runaway Train,Grave Dancers Union,265
-PLAY 26,8,Os Paralamas do Sucesso,Meu Erro,O Passo Do Lui,208
-PLAY 26,9,Skank,Tão Seu,O Samba Poconé,243
-PLAY 26,10,Raul Seixas,Ouro De Tolo,"Krig-Ha, Bandolo",171
-PLAY 26,11,Camisa de Venus,Eu nao matei joana darc,Camisa de Venus,224
-PLAY 26,12,The Offspring,Self Esteem,Smash,257
-PLAY 26,13,Green Day,She,Dookie,134
-PLAY 26,14,Live,Selling The Drama,Throwing Copper,208
-PLAY 26,15,Lenny Kravitz,Again,I'll Be Waiting,228
-PLAY 26,16,Oingo Boingo,Just Another Day,Dead Man's Party,312
-PLAY 26,17,The Mission,Stay With Me,God's Own Medicine,276
-PLAY 26,18,Soundgarden,Like Suicide,Superunknown (Super Deluxe),424
-PLAY 26,19,The Smashing Pumpkins,Untitled,(Rotten Apples) The Smashing Pumpkins Greatest Hits,231
-PLAY 27,1,Blur,Song 2,Blur,121
-PLAY 27,2,Pearl Jam,Faithful,Yield,258
-PLAY 27,3,Ugly Kid Joe,Everything About You,America's Least Wanted,260
-PLAY 27,4,Green Day,Longview,Dookie,233
-PLAY 27,5,Nirvana,Love Buzz,Bleach (Deluxe),215
-PLAY 27,6,Bush,Cold Contagious,Razorblade Suitcase,360
-PLAY 27,7,The Smashing Pumpkins,Tonight, Tonight,Mellon Collie And The Infinite Sadness (Remastered),255
-PLAY 27,8,The Cure,High,Greatest Hits,214
-PLAY 27,9,Living Colour,Love Rears Its Ugly Head,Time'S Up,259
-PLAY 27,10,Lenny Kravitz,It Ain't Over 'Til It's Over,Mama Said,242
-PLAY 27,11,Faith No More,Digging the Grave,King for a Day, Fool for a Lifetime,183
-PLAY 27,12,Rage Against the Machine,Freedom,Rage Against The Machine,366
-PLAY 27,13,Soundgarden,Jesus Christ Pose,Badmotorfinger,350
-PLAY 27,14,Alice in Chains,Again,Alice In Chains,245
-PLAY 27,15,Foo Fighters,Times Like These,Greatest Hits,267
-PLAY 27,16,Depeche Mode,Policy of Truth,The Singles 86-98,313
-PLAY 27,17,New Order,True Faith '94,The Best of New Order,335
-PLAY 27,18,Seal,Kiss from a Rose,Hits,289
-PLAY 27,19,Tears for Fears,Advice For The Young At Heart,The Seeds Of Love (Remastered with bonus tracks),290
-PLAY 28,1,Lenny Kravitz,Are You Gonna Go My Way,Are You Gonna Go My Way,211
-PLAY 28,2,Green Day,Geek Stink Breath,Insomniac,135
-PLAY 28,3,Faith No More,Midlife Crisis,Angel Dust,259
-PLAY 28,4,Nirvana,Heart-Shaped Box,Nirvana (International Version),279
-PLAY 28,5,Foo Fighters,Walk,Wasting Light,256
-PLAY 28,6,Bush,Mouth,Razorblade Suitcase,345
-PLAY 28,7,The Offspring,What Happened to You?,Smash,132
-PLAY 28,8,The B-52's,Rock Lobster,Time Capsule,294
-PLAY 28,9,Tears for Fears,Everybody Wants To Rule The World,Tears Roll Down (Greatest Hits 82-92),249
-PLAY 28,10,U2,Where The Streets Have No Name,The Joshua Tree,336
-PLAY 28,11,Ozzy Osbourne,Mr. Tinkertrain,No More Tears,356
-PLAY 28,12,Soundgarden,Hands All Over,Louder Than Love,360
-PLAY 28,13,Alice in Chains,Junkhead,Dirt,309
-PLAY 28,14,Oasis,Slide Away,Definitely Maybe,392
-PLAY 28,15,Pearl Jam,In Hiding,Yield,299
-PLAY 28,16,The Smashing Pumpkins,Hummer,Siamese Dream (2011 - Remaster),416
-PLAY 28,17,Stone Temple Pilots,Adhesive,Tiny Music...Songs from the Vatican Gift Shop,334
-PLAY 28,18,Depeche Mode,Home,The Singles 86-98,345
-PLAY 28,19,The Cure,Let's Go To Bed,Greatest Hits,212
-PLAY 28,20,Morrissey,Suedehead,The Very Best Of,231
-PLAY 29,1,Rage Against the Machine,Killing In the Name,Rage Against The Machine,313
-PLAY 29,2,Green Day,Basket Case,Dookie,181
-PLAY 29,3,Nirvana,Turnaround,Incesticide,137
-PLAY 29,4,Camisa de Venus,Bete Morreu,Camisa de Venus,107
-PLAY 29,5,Titãs,Clitóris,Tudo Ao Mesmo Tempo Agora,227
-PLAY 29,6,Legião Urbana,Perfeição,Mais Do Mesmo,276
-PLAY 29,7,Pearl Jam,Corduroy,Vitalogy,277
-PLAY 29,8,Lenny Kravitz,Can't Get You Off My Mind,Circus,274
-PLAY 29,9,Faith No More,Easy,Angel Dust,187
-PLAY 29,10,The Smashing Pumpkins,Drown,Singles - Original Motion Picture Soundtrack,496
-PLAY 29,11,Alice in Chains,We Die Young,Facelift,151
-PLAY 29,12,Stone Temple Pilots,Plush,Core,310
-PLAY 29,13,Radiohead,My Iron Lung,The Bends,276
-PLAY 29,14,Depeche Mode,I Feel You,The Singles 86-98,275
-PLAY 29,15,INXS,New Sensation,Kick 30,220
-PLAY 29,16,a-ha,Take on Me,Hunting High and Low,227
-PLAY 29,17,New Order,Regret,The Best of New Order,249
-PLAY 29,18,Information Society,What's on Your Mind (Pure Energy) [Re-Recorded],101 '80s Hits - New Wave, Old School Hip Hop, Hair Metal, Pop & Rock,279
-PLAY 29,19,Blur,The Universal,The Great Escape,238
-PLAY 29,20,Roxette,Spending My Time,The Ballad Hits,275
-PLAY 30,1,Soundgarden,Pretty Noose,Down On The Upside,251
-PLAY 30,2,Foo Fighters,This Is A Call,Foo Fighters,233
-PLAY 30,3,Metallica,Sad But True,Metallica,323
-PLAY 30,4,Pearl Jam,Light Years,Binaural,306
-PLAY 30,5,Alanis Morissette,So Unsexy,Under Rug Swept,307
-PLAY 30,6,Planet Hemp,Queimando Tudo,Os Cães Ladram Mas a Caravana Não Pára,172
-PLAY 30,7,Chico Science & Nação Zumbi,Manguetown,Afrociberdelia,194
-PLAY 30,8,Legião Urbana,Faroeste Caboclo,Mais Do Mesmo,542
-PLAY 30,9,Cazuza,Faz Parte Do Meu Show,Ideologia,173
-PLAY 30,10,Raul Seixas,Gita,'Gîtâ',287
-PLAY 30,11,Green Day,Brain Stew,Insomniac,193
-PLAY 30,12,Green Day,Jaded,Insomniac,90
-PLAY 30,13,Nirvana,Scoff,Bleach (Deluxe),250
-PLAY 30,14,Alice in Chains,Grind,Alice In Chains,284
-PLAY 30,15,Oasis,Stand by Me,Be Here Now,356
-PLAY 30,16,a-ha,Touchy!,Stay on These Roads,277
-PLAY 30,17,New Order,World (Price of Love),The Best of New Order,219
-PLAY 30,18,Depeche Mode,Behind the Wheel,The Singles 86-98,241
-PLAY 30,19,Faith No More,Evidence,King for a Day, Fool for a Lifetime,294
-PLAY 30,20,Collective Soul,December,Collective Soul,285
-PLAY 30,21,Blur,Tender,13,461
-PLAY 31,1,The Smashing Pumpkins,Cherub Rock,Siamese Dream (2011 - Remaster),298
-PLAY 31,2,Ugly Kid Joe,Neighbor,America's Least Wanted,285
-PLAY 31,3,L7,Monster,Bricks Are Heavy,176
-PLAY 31,4,Spin Doctors,Jimmy Olsen's Blues,Two Princes - The Best Of,277
-PLAY 31,5,R.E.M.,Radio Song,Out Of Time (U.S. Version),255
-PLAY 31,6,The Lemonheads,Confetti,It's A Shame About Ray,166
-PLAY 31,7,Radiohead,Karma Police,OK Computer (Collector's Edition),264
-PLAY 31,8,Pato Fu,Antes Que Seja Tarde,Maxximum - Pato Fu,256
-PLAY 31,9,4 Non Blondes,What's Up?,Bigger, Better, Faster, More !,295
-PLAY 31,10,Blind Melon,Change,Blind Melon,221
-PLAY 31,11,Rage Against the Machine,Sleep Now In the Fire (Album Version),The Battle Of Los Angeles,205
-PLAY 31,12,Green Day,Welcome to Paradise,Dookie,224
-PLAY 31,13,Stone Temple Pilots,Crackerman,Core,194
-PLAY 31,14,Raimundos,Eu quero ver o oco,Lavô Tá Novo,251
-PLAY 31,15,Titãs,Diversão,84 94 - Volume 1,305
-PLAY 31,16,Depeche Mode,In Your Room,The Singles 86-98,290
-PLAY 31,17,Alice in Chains,Brother,The Essential Alice In Chains,268
-PLAY 31,18,Nirvana,All Apologies,MTV Unplugged In New York,263
-PLAY 31,19,Pearl Jam,Oceans,Ten Redux,161
-PLAY 31,20,Jimi Hendrix,Hey Joe,Experience Hendrix: The Best Of Jimi Hendrix,209
-PLAY 32,1,Pantera,Mouth for War,Vulgar Display of Power,237
-PLAY 32,2,Sepultura,Roots Bloody Roots,Roots,212
-PLAY 32,3,Biohazard,Judgment Night,Judgement Night: Music From The Motion Picture,274
-PLAY 32,4,Rage Against the Machine,Darkness,The Crow Original Motion Picture Soundtrack,222
-PLAY 32,5,Beastie Boys,Sure Shot,Ill Communication (Deluxe Version/Remastered),199
-PLAY 32,6,Nirvana,Rape Me,In Utero - 20th Anniversary Remaster,170
-PLAY 32,7,Soul Asylum,Black Gold,Grave Dancers Union,236
-PLAY 32,8,Ugly Kid Joe,Busy Bee,America's Least Wanted,250
-PLAY 32,9,Pearl Jam,Wishlist,Yield,206
-PLAY 32,10,The Smashing Pumpkins,In The Arms Of Sleep,Mellon Collie And The Infinite Sadness (Remastered),251
-PLAY 32,11,Joan Jett and the Blackhearts,I Love Rock N' Roll,Greatest Hits,175
-PLAY 32,12,Jimi Hendrix,Purple Haze,Experience Hendrix: The Best Of Jimi Hendrix,171
-PLAY 32,13,The Doors,Break on Through (To the Other Side),The Doors,147
-PLAY 32,14,Raimundos,I Saw You Saying,Lavô Tá Novo,204
-PLAY 32,15,Alanis Morissette,Ironic,Jagged Little Pill,225
-PLAY 32,16,Soundgarden,Blow Up The Outside World,Down On The Upside,345
-PLAY 32,17,Stone Temple Pilots,Big Empty,The Crow Original Motion Picture Soundtrack,293
-PLAY 32,18,The B-52's,Good Stuff,Time Capsule,355
-PLAY 32,19,Maskavo Roots,Tempestade (feat. Samuel Rosa),Se Não Guenta, Por Que Veio?,217
-PLAY 32,20,Pato Fu,Qualquer Bobagem,Gol de Quem?,214
-PLAY 33,1,Jimi Hendrix,Voodoo Child (Slight Return),Experience Hendrix: The Best Of Jimi Hendrix,312
-PLAY 33,2,Megadeth,A Tout Le Monde,Youthanasia,262
-PLAY 33,3,Bon Jovi,Wanted Dead Or Alive,Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package),308
-PLAY 33,4,Skid Row,Quicksand Jesus,Best Of,321
-PLAY 33,5,The Smashing Pumpkins,Rocket,Siamese Dream (2011 - Remaster),246
-PLAY 33,6,Stone Temple Pilots,Sour Girl,Thank You,256
-PLAY 33,7,Nirvana,Polly,Nevermind,174
-PLAY 33,8,Alice in Chains,Nutshell,Jar Of Flies,259
-PLAY 33,9,Pantera,Walk,Vulgar Display of Power,315
-PLAY 33,10,Pearl Jam,Hail, Hail,No Code,221
-PLAY 33,11,Bush,Greedy Fly,Razorblade Suitcase,268
-PLAY 33,12,U2,Hold Me, Thrill Me, Kiss Me, Kill Me,The Best Of 1990-2000,285
-PLAY 33,13,Raimundos,Mulher de fases,So No Forevis,213
-PLAY 33,14,Legião Urbana,Índios,Mais Do Mesmo,258
-PLAY 33,15,Raul Seixas,Metamorfose Ambulante,"Krig-Ha, Bandolo",231
-PLAY 33,16,Propaganda,Duel,A Secret Wish (DeLuxe),281
-PLAY 33,17,Dexys Midnight Runners,Come On Eileen,Too Rye Ay,274
-PLAY 33,18,Kansas,Dust in the Wind,The Best Of Kansas,205
-PLAY 33,19,Pink Floyd,Comfortably Numb,Pulse,569
-PLAY 33,20,John Lennon,Happy Xmas (War Is Over),ICON - A Very Special Christmas,212
-PLAY 34,1,Raimundos,Puteiro em João Pessoa,Raimundos,189
-PLAY 34,2,Titãs,Eu não aguento / Introdução: Sangue latino,Domingo,268
-PLAY 34,3,The White Stripes,I Just Don't Know What To Do With Myself,Elephant,166
-PLAY 34,4,The Smashing Pumpkins,Zero,Mellon Collie And The Infinite Sadness (Remastered),159
-PLAY 34,5,Alice in Chains,Rooster,Greatest Hits,374
-PLAY 34,6,Pearl Jam,Dissident (Remastered),Vs.,215
-PLAY 34,7,Bon Jovi,Never Say Goodbye,Slippery When Wet (Remastered),288
-PLAY 34,8,Duran Duran,Ordinary World,Greatest,277
-PLAY 34,9,Pet Shop Boys,West End Girls,Discography - Complete Singles Collection,241
-PLAY 34,10,Madonna,Like a Prayer,Like a Prayer,340
-PLAY 34,11,Cyndi Lauper,True Colors,Une Heure De Tubes Slows,227
-PLAY 34,12,Bee Gees,Wish You Were Here,One,287
-PLAY 34,13,Red Hot Chili Peppers,Can't Stop,By the Way (Deluxe Edition),269
-PLAY 34,14,Stone Temple Pilots,Days of the Week,Thank You,155
-PLAY 34,15,The B-52's,Private Idaho,Nude On The Moon: The B-52's Anthology,216
-PLAY 34,16,Camisa de Venus,Silvia (Piranha),Camisa de Venus,250
-PLAY 34,17,Ultraje A Rigor,Mim quer tocar,2 é Demais,229
-PLAY 34,18,Legião Urbana,Monte Castelo,As Quatro Estações,230
-PLAY 34,19,Cazuza,Codinome Beija-Flor,Exagerado,151
-PLAY 34,20,ABBA,The Winner Takes It All,ABBA Gold,295
-PLAY 35,1,The Smashing Pumpkins,I Am One,Gish (Deluxe Edition),246
-PLAY 35,2,Run DMC,Walk This Way,80's for 40's,311
-PLAY 35,3,Beastie Boys,No Sleep Till Brooklyn,Licensed To Ill,246
-PLAY 35,4,Muse,Supermassive Black Hole,Black Holes and Revelations,212
-PLAY 35,5,Sonic Youth,Sunday,A Thousand Leaves,292
-PLAY 35,6,Snow Patrol,Open Your Eyes,Eyes Open,341
-PLAY 35,7,Sixpence None the Richer,Kiss Me,Greatest Hits,198
-PLAY 35,8,Duran Duran,Come Undone,Greatest,257
-PLAY 35,9,Legião Urbana,Eu Era Um Lobisomem Juvenil,As Quatro Estações,406
-PLAY 35,10,Raul Seixas,Medo Da Chuva,20 Grandes Sucessos De Raul Seixas,177
-PLAY 35,11,Lady Gaga,Poker Face,The Fame Monster,237
-PLAY 35,12,Britney Spears,Toxic,In The Zone,198
-PLAY 35,13,Gwen Stefani,Hollaback Girl,Love Angel Music Baby,199
-PLAY 35,14,Sepultura,Kaiowas,Chaos A.D.,223
-PLAY 35,15,The Stone Roses,Love Spreads,Second Coming,347
-PLAY 35,16,Ramones,I Wanna Be Sedated,Road to Ruin (Expanded 2005 Remaster),149
-PLAY 35,17,Tears for Fears,Shout,Tears Roll Down (Greatest Hits 82-92),392
-PLAY 35,18,U2,Dancing Barefoot,The Best of 1980-1990 & B-Sides,285
-PLAY 35,19,Bee Gees,Stayin' Alive,Number Ones,285
-PLAY 35,20,ABBA,Dancing Queen,ABBA Gold,231
-PLAY 36,1,System of a Down,Hypnotize,Hypnotize,189
-PLAY 36,2,Marilyn Manson,The Beautiful People,Antichrist Superstar,218
-PLAY 36,3,AC/DC,Thunderstruck,The Razors Edge,292
-PLAY 36,4,Audioslave,Show Me How to Live,Audioslave,277
-PLAY 36,5,Bruce Dickinson,Tears of the Dragon,The Best of Bruce Dickinson,379
-PLAY 36,6,The Flaming Lips,She Don't Use Jelly,Transmissions From the Satellite Heart,222
-PLAY 36,7,The Animals,The House of the Rising Sun,The Best Of The Animals,269
-PLAY 36,8,Talking Heads,Psycho Killer,Talking Heads '77 (Deluxe Version),261
-PLAY 36,9,Echo And The Bunnymen,The Killing Moon,Ocean Rain (Expanded; 2007 Remaster),348
-PLAY 36,10,Alanis Morissette,Head over Feet,The Collection (Standard Edition),264
-PLAY 36,11,Pearl Jam,The End,Backspacer,177
-PLAY 36,12,The Smashing Pumpkins,Silverfuck,Siamese Dream (2011 - Remaster),522
-PLAY 36,13,Foo Fighters,Breakout,There Is Nothing Left To Lose,200
-PLAY 36,14,Hole,Malibu,Celebrity Skin,230
-PLAY 36,15,Candlebox,Cover Me,Candlebox,285
-PLAY 36,16,Jamiroquai,When You Gonna Learn?,High Times - The Singles 1992 - 2006,228
-PLAY 36,17,DNA,Tom's Diner,Classic 90's,228
-PLAY 36,18,Joy Division,Love Will Tear Us Apart,The Best Of,206
-PLAY 36,19,The Smiths,There Is a Light That Never Goes Out,The Sound of the Smiths (Deluxe; 2008 Remaster),245
-PLAY 36,20,Toto,Africa,Toto IV,295
-PLAY 37,1,L7,Scrap,Bricks Are Heavy,174
-PLAY 37,2,Megadeth,Symphony Of Destruction,Countdown To Extinction,246
-PLAY 37,3,Metallica,Whiskey In The Jar,Garage Inc.,304
-PLAY 37,4,Alice in Chains,Sea Of Sorrow,Facelift,349
-PLAY 37,5,Sonic Youth,Incinerate,Rather Ripped,295
-PLAY 37,6,Hole,Doll Parts,Live Through This,211
-PLAY 37,7,Audioslave,I Am the Highway,Audioslave,334
-PLAY 37,8,Lynyrd Skynyrd,Simple Man,The Complete Collection,357
-PLAY 37,9,Andru Donalds,Save Me Now,Best Of,300
-PLAY 37,10,Spandau Ballet,True,Gold - The Best of Spandau Ballet,329
-PLAY 37,11,Moby,Porcelain,Play & Play: B Sides,241
-PLAY 37,12,The White Stripes,Fell In Love With a Girl,White Blood Cells,110
-PLAY 37,13,Foo Fighters,All My Life,Greatest Hits,263
-PLAY 37,14,Queen,Another One Bites The Dust,The Game (2011 Remaster),217
-PLAY 37,15,Simple Minds,Alive And Kicking,Pub Jukebox Classics,286
-PLAY 37,16,Icehouse,No Promises,Measure For Measure (Bonus Track Edition),280
-PLAY 37,17,George Michael,Heal the Pain,Ladies And Gentlemen... The Best Of George Michael,286
-PLAY 37,18,The Housemartins,Build,The People Who Grinned Themselves To Death,288
-PLAY 37,19,Chicago,If You Leave Me Now,The Very Best of Chicago: Only the Beginning,235
-PLAY 37,20,Roxette,Listen To Your Heart,Look Sharp! (2009 Version),328
-PLAY 38,1,Sepultura,Slave New World,Chaos A.D. (Expanded Edition),174
-PLAY 38,2,Marilyn Manson,Sweet Dreams (Are Made Of This),Smells Like Children,293
-PLAY 38,3,Soundgarden,Birth Ritual,Singles - Original Motion Picture Soundtrack,365
-PLAY 38,4,Pearl Jam,Not for You,Vitalogy,352
-PLAY 38,5,Kings of Leon,Sex on Fire,Only By The Night,203
-PLAY 38,6,Pixies,Where Is My Mind?,Surfer Rosa,234
-PLAY 38,7,System of a Down,Lonely Day,Hypnotize,167
-PLAY 38,8,Red Hot Chili Peppers,Californication,Californication (Deluxe Edition),329
-PLAY 38,9,The Rolling Stones,Like A Rolling Stone,The Rolling Stones Singles Box Set (1971-2006) (Sampler),261
-PLAY 38,10,The Doors,Riders on the Storm,L.A. Woman,434
-PLAY 38,11,Pink Floyd,High Hopes,Pulse,472
-PLAY 38,12,Nirvana,About A Girl,MTV Unplugged In New York (25th Anniversary – Live),217
-PLAY 38,13,The Smashing Pumpkins,Ava Adore,Adore (Super Deluxe),270
-PLAY 38,14,Silverchair,Tomorrow,Frogstomp (Deluxe Edition) (Remastered),266
-PLAY 38,15,Virna Lisi,Eu quero essa mullher,Virna Lisi,209
-PLAY 38,16,Planet Hemp,Nega do Cabelo Duro,Os Cães Ladram Mas a Caravana Não Pára,121
-PLAY 38,17,Los Hermanos,Anna Júlia,Los Hermanos,212
-PLAY 38,18,Nenhum De Nós,Camila, Camila,Nenhum de Nós,312
-PLAY 38,19,Legião Urbana,Meninos E Meninas,As Quatro Estações,203
-PLAY 38,20,Pato Fu,Depois,Isopor,266
-PLAY 39,1,Red Hot Chili Peppers,Give It Away,Blood Sugar Sex Magik (Deluxe Edition),282
-PLAY 39,2,Franz Ferdinand,Take Me Out,Franz Ferdinand,236
-PLAY 39,3,The White Stripes,Stop Breaking Down,The White Stripes,140
-PLAY 39,4,Concrete Blonde,Heal It Up,Mexican Moon,261
-PLAY 39,5,Siouxsie and The Banshees,Cities In Dust,Tinderbox,231
-PLAY 39,6,Echo And The Bunnymen,Lips Like Sugar,Echo & The Bunnymen (Expanded & Remastered),291
-PLAY 39,7,The Bolshoi,Sunday Morning,Friends,395
-PLAY 39,8,Soft Cell,Torch,The Very Best Of Soft Cell,247
-PLAY 39,9,When in Rome,The Promise,When In Rome,221
-PLAY 39,10,Muse,Hysteria,Absolution,227
-PLAY 39,11,Public Image Limited,Rise,The Greatest Hits... So Far,378
-PLAY 39,12,Simple Minds,Don't You (Forget About Me),Driving,260
-PLAY 39,13,Midnight Oil,The Dead Heart,Diesel And Dust,311
-PLAY 39,14,Dire Straits,Walk Of Life,Brothers In Arms,247
-PLAY 39,15,The Cure,Pictures Of You,Disintegration (Deluxe Edition),448
-PLAY 39,16,Pixies,Here Comes Your Man,Death to the Pixies,201
-PLAY 39,17,a-ha,Crying in the Rain,East of the Sun, West of the Moon,262
-PLAY 39,18,The The,This Is the Day,Soul Mining,297
-PLAY 39,19,Pet Shop Boys,Being Boring,Discography - Complete Singles Collection,291
-PLAY 39,20,Bruce Hornsby,The Way It Is,Greatest Radio Hits,297
-PLAY 40,1,The Offspring,All I Want,Ixnay On The Hombre,112
-PLAY 40,2,Live,Operation Spirit (The Tyranny Of Tradition),Best Of Live,199
-PLAY 40,3,Kaiser Chiefs,Ruby,Souvenir : The Singles 2004 - 2012,203
-PLAY 40,4,New Radicals,You Get What You Give,Guilty Pleasures (International Version),300
-PLAY 40,5,The Sugarcubes,Regina,Here Today, Tomorrow Next Week!,246
-PLAY 40,6,New Model Army,51st State,The Ghost Of Cain (Bonus Content),158
-PLAY 40,7,The Beatles,Come Together,Abbey Road (Remastered),259
-PLAY 40,8,Lou Reed,Walk on the Wild Side,The Best Of The 70's (seventies),251
-PLAY 40,9,Echo And The Bunnymen,Bring on the Dancing Horses,Songs To Learn And Sing,235
-PLAY 40,10,Gorillaz,On Melancholy Hill,Plastic Beach,233
-PLAY 40,11,Metallica,Seek & Destroy,Kill 'Em All (Remastered),414
-PLAY 40,12,Alice in Chains,Voices,The Devil Put Dinosaurs Here,342
-PLAY 40,13,The Smashing Pumpkins,Silvery Sometimes (Ghosts),Silvery Sometimes (Ghosts),210
-PLAY 40,14,Midnight Oil,My Country,Earth And Sun And Moon,291
-PLAY 40,15,Talking Heads,The Lady Don't Mind,Essential,238
-PLAY 40,16,Soft Cell,Tainted Love,The Very Best Of Soft Cell,160
-PLAY 40,17,Gary Numan,Cars,The Pleasure Principle,238
-PLAY 40,18,Queen,Somebody To Love,A Day At The Races (Deluxe Edition 2011 Remaster),296
-PLAY 40,19,Rick Astley,Cry for Help,90s 100 Hits,243
-PLAY 40,20,Carly Simon,Coming Around Again,Clouds In My Coffee 1965-1995,220
-PLAY 41,1,The Rolling Stones,Paint It, Black,Singles 1965-1967,224
-PLAY 41,2,Keane,Is It Any Wonder?,The Best Of Keane (Deluxe Edition),185
-PLAY 41,3,No Doubt,It's My Life,The Singles Collection,224
-PLAY 41,4,ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA Gold,289
-PLAY 41,5,New Order,Bizarre Love Triangle '94,The Best of New Order,234
-PLAY 41,6,Erasure,Blue Savannah,Total Pop! - The First 40 Hits (Deluxe Edition;Remastered),259
-PLAY 41,7,Brenda Russell,Piano In The Dark,Greatest Hits,320
-PLAY 41,8,Bryan Adams,Please Forgive Me,Anthology,355
-PLAY 41,9,Pearl Jam,Just Breathe,Got Some / Just Breathe,216
-PLAY 41,10,Europe,The Final Countdown,Rock The Night - The Very Best Of Europe,309
-PLAY 41,11,The Cult,She Sells Sanctuary,Love,263
-PLAY 41,12,The Offspring,Gone Away,Ixnay On The Hombre,267
-PLAY 41,13,Pixies,Catfish Kate,Catfish Kate,188
-PLAY 41,14,Titãs,O pulso,Õ Blesq Blom,164
-PLAY 41,15,U2,Numb,Zooropa,260
-PLAY 41,16,Black Sabbath,N.I.B.,Black Sabbath (2009 Remastered Version),364
-PLAY 41,17,The Church,Under the Milky Way,Starfish,297
-PLAY 41,18,Oasis,Don't Go Away,Be Here Now,288
-PLAY 41,19,Pink Floyd,Hey You,Pulse,292
-PLAY 41,20,Ozzy Osbourne,Ordinary Man (feat. Elton John),Ordinary Man,301
-PLAY 42,1,Nirvana,You Know You're Right,Nirvana,217
-PLAY 42,2,The Offspring,The Kids Aren't Alright,Americana,180
-PLAY 42,3,Franz Ferdinand,Do You Want To,You Could Have It So Much Better,215
-PLAY 42,4,Arctic Monkeys,Do I Wanna Know?,Do I Wanna Know?,273
-PLAY 42,5,Red Hot Chili Peppers,Dani California,Stadium Arcadium,282
-PLAY 42,6,Pearl Jam,Who You Are,No Code,230
-PLAY 42,7,Oasis,Stop Crying Your Heart Out,Heathen Chemistry,303
-PLAY 42,8,Plebe Rude,Até Quando Esperar,Brasília,268
-PLAY 42,9,Pitty,Me Adora,Chiaroscuro,271
-PLAY 42,10,Titãs,Comida,Jesus Não Tem Dentes No País Dos Banguelas,235
-PLAY 42,11,AC/DC,Back In Black,Back In Black,255
-PLAY 42,12,Audioslave,Cochise,Audioslave,222
-PLAY 42,13,Peter Frampton,Breaking All the Rules,Rock Classics,425
-PLAY 42,14,Creed,My Sacrifice,Weathered,294
-PLAY 42,15,Robert Plant,29 Palms,Fate of Nations,291
-PLAY 42,16,Weezer,Island In The Sun,Weezer (Green Album),200
-PLAY 42,17,Gene Loves Jezebel,Desire,Discover,198
-PLAY 42,18,James,Born Of Frustration,James: The Best Of,276
-PLAY 42,19,The Human League,Heart Like A Wheel,All The Best,267
-PLAY 42,20,The Smiths,This Charming Man,The Sound of the Smiths (Deluxe; 2008 Remaster),163
-PLAY 43,1,Red Hot Chili Peppers,Easily,Californication (Deluxe Edition),231
-PLAY 43,2,CAKE,The Distance,Fashion Nugget,179
-PLAY 43,3,The Outfield,Your Love,Super Hits,221
-PLAY 43,4,Oingo Boingo,Dead Man's Party,Best O' Boingo,382
-PLAY 43,5,The Bangles,Walk Like An Egyptian,Greatest Hits,201
-PLAY 43,6,The Silencers,Bulletproof Heart,The Best Of - Blood & Rain: The Singles '86 - '96,299
-PLAY 43,7,Simply Red,For Your Babies,Stars (Collector's Edition),257
-PLAY 43,8,The Cranberries,Ode To My Family,No Need To Argue (The Complete Sessions 1994-1995),271
-PLAY 43,9,Legião Urbana,Pais E Filhos,Mais Do Mesmo,308
-PLAY 43,10,Os Paralamas do Sucesso,Aonde Quer Que Eu Vá,Arquivo II 1991 - 2000,257
-PLAY 43,11,Mad Season,Wake Up,Above,456
-PLAY 43,12,Metallica,Until It Sleeps,Load,267
-PLAY 43,13,Creed,Don't Stop Dancing,Weathered,272
-PLAY 43,14,Nickelback,How You Remind Me,The Best of Nickelback, Vol. 1,224
-PLAY 43,15,Semisonic,Secret Smile,Secret Smile,279
-PLAY 43,16,The Wallflowers,One Headlight,Bringing Down The Horse,312
-PLAY 43,17,The Black Crowes,She Talks To Angels,Greatest Hits 1990-1999: A Tribute To A Work In Progress...,329
-PLAY 43,18,Rod Stewart,I Don't Want to Talk About It,Some Guys Have All the Luck,292
-PLAY 43,19,Richard Marx,Right Here Waiting,Repeat Offender,264
-PLAY 43,20,Bonnie Tyler,Total Eclipse of the Heart,Heaven & Hell,270
-PLAY 44,1,Sonic Youth,Kool Thing,Goo (Deluxe Edition),246
-PLAY 44,2,The Cranberries,Salvation,To The Faithful Departed (The Complete Sessions 1996-1997),143
-PLAY 44,3,Pearl Jam,Sirens,Sirens,340
-PLAY 44,4,Red Hot Chili Peppers,Otherside,Californication (Deluxe Edition),255
-PLAY 44,5,Aerosmith,Livin' On The Edge,Get A Grip,380
-PLAY 44,6,Scorpions,Wind Of Change,Crazy World,313
-PLAY 44,7,Skid Row,Little Wing,B-Side Ourselves,199
-PLAY 44,8,Pitty,Na Sua Estante,Anacrônico,222
-PLAY 44,9,Engenheiros do Hawaii,Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones,O Papa É Pop,265
-PLAY 44,10,Legião Urbana,Ainda É Cedo,Mais Do Mesmo,236
-PLAY 44,11,The Human League,(Keep Feeling) Fascination,The Greatest Hits,225
-PLAY 44,12,Phil Collins,Two Hearts,The Singles,204
-PLAY 44,13,AC/DC,Highway to Hell,Highway to Hell,208
-PLAY 44,14,Ramones,Poison Heart,Mondo Bizarro,243
-PLAY 44,15,The Strokes,Reptilia,Room On Fire,219
-PLAY 44,16,Primal Scream,Rocks,Give Out But Don't Give Up (Expanded Edition),216
-PLAY 44,17,Sheryl Crow,All I Wanna Do,Tuesday Night Music Club,272
-PLAY 44,18,Jimmy Page,Gallows Pole,No Quarter,249
-PLAY 44,19,Mr. Big,To Be With You,Big, Bigger, Biggest! The Best Of Mr. Big,207
-PLAY 44,20,Bonnie Tyler,It's A Heartache,100 Essential Hits - 70s,208
-PLAY 45,1,Led Zeppelin,Black Dog,Mothership,295
-PLAY 45,2,Skid Row,Monkey Business,Best Of,259
-PLAY 45,3,The Cult,Edie (Ciao Baby),Sonic Temple,286
-PLAY 45,4,Van Halen,Dreams,The Best of Both Worlds,292
-PLAY 45,5,Bruce Springsteen,Dancing In the Dark,Born In The U.S.A.,241
-PLAY 45,6,Queen,We Are The Champions,Greatest Hits (Remastered),186
-PLAY 45,7,Europe,Carrie,Rock The Night - The Very Best Of Europe,270
-PLAY 45,8,Steve Vai,For the Love of God,Pure... Metal,363
-PLAY 45,9,Joe Satriani,Summer Song,The Extremist,297
-PLAY 45,10,The Runaways,Dead End Justice,The Runaways - The Mercury Albums Anthology,419
-PLAY 45,11,Kleenex,Die Matrosen,Liliput,229
-PLAY 45,12,Courtney Barnett,Nobody Really Cares If You Don't Go to the Party,Sometimes I Sit and Think, and Sometimes I Just Sit,166
-PLAY 45,13,The Raincoats,Lola,The Raincoats,243
-PLAY 45,14,Pato Fu,Eu,Ruido Rosa,181
-PLAY 45,15,Semisonic,Closing Time,Pop Hits 1998,273
-PLAY 45,16,Silverchair,Miss You Love,Neon Ballroom,241
-PLAY 45,17,Keane,Everybody's Changing,The Best Of Keane (Deluxe Edition),216
-PLAY 45,18,The Verve,Bitter Sweet Symphony,90s Rock,359
-PLAY 45,19,Tracy Chapman,Fast Car,Tracy Chapman,296
-PLAY 45,20,Bill Medley,(I've Had) The Time Of My Life,Dirty Dancing (Original Motion Picture Soundtrack),290
-PLAY 46,1,Metallica,Mama Said,Load,319
-PLAY 46,2,Silverchair,Anthem for the Year 2000,The Best Of - Volume One,261
-PLAY 46,3,The Strokes,Last Nite,Is This It,193
-PLAY 46,4,Living Colour,Glamour Boys,Vivid (Expanded Edition),220
-PLAY 46,5,Van Halen,Love Walks In,The Very Best of Van Halen,311
-PLAY 46,6,Alice in Chains,Whale & Wasp,Jar Of Flies,157
-PLAY 46,7,Alice in Chains,Don't Follow,Jar Of Flies,262
-PLAY 46,8,Nirvana,Dumb,In Utero - 20th Anniversary Remaster,151
-PLAY 46,9,Mad Season,Long Gone Day,Above,289
-PLAY 46,10,The Rolling Stones,Angie,Goats Head Soup (Remastered 2009),272
-PLAY 46,11,Edwyn Collins,A Girl Like You,Gorgeous George,236
-PLAY 46,12,Soul Asylum,Sexual Healing,After The Flood: Live From The Grand Forks Prom,279
-PLAY 46,13,Oingo Boingo,We Close Our Eyes,Boingo Alive,209
-PLAY 46,14,Red Hot Chili Peppers,The Zephyr Song,By the Way (Deluxe Edition),231
-PLAY 46,15,Crash Test Dummies,Afternoons & Coffeespoons,The Best Of Crash Test Dummies,235
-PLAY 46,16,4 Non Blondes,Spaceman,Bigger, Better, Faster, More !,220
-PLAY 46,17,Gregory Abbott,Shake You Down,80s 100 Hits,244
-PLAY 46,18,Paul Young,Every Time You Go Away,From Time To Time - The Singles Collection,267
-PLAY 46,19,Elvis Presley,Suspicious Minds,Suspicious Minds: 60 Greatest Hits of Elvis Presley,269
-PLAY 46,20,Phil Collins,One More Night,Love Songs (A Compilation Old and New),292
-PLAY 47,1,Ozzy Osbourne,Perry Mason,Memoirs of a Madman,353
-PLAY 47,2,Deep Purple,Child in Time,Deep Purple in Rock (Anniversary Edition),613
-PLAY 47,3,Sonic Youth,Dirty Boots,Goo (Deluxe Edition),329
-PLAY 47,4,Foo Fighters,Waiting On A War,Waiting On A War,253
-PLAY 47,5,Soul Asylum,Misery,Let Your Dim Light Shine,264
-PLAY 47,6,Jon Bon Jovi,Janie, Don't Take Your Love To Town,Destination Anywhere,317
-PLAY 47,7,R.E.M.,It's The End Of The World As We Know It (And I Feel Fine),And I Feel Fine.....The Best Of The IRS Years 82-87,245
-PLAY 47,8,Outkast,Hey Ya!,Touch My Soul,236
-PLAY 47,9,Amy Winehouse,Rehab,Back To Black,213
-PLAY 47,10,Fugees,Killing Me Softly With His Song,Greatest Hits,290
-PLAY 47,11,Martika,Toy Soldiers,Toy Soldiers: The Best Of Martika,259
-PLAY 47,12,CAKE,Comfort Eagle,Comfort Eagle,220
-PLAY 47,13,Simple Minds,Hypnotised,Good News From The Next World,353
-PLAY 47,14,New Radicals,Someday We'll Know,Maybe You've Been Brainwashed Too,219
-PLAY 47,15,Red Hot Chili Peppers,My Friends,One Hot Minute (Deluxe Edition),248
-PLAY 47,16,The Outfield,Voices Of Babylon,Super Hits,211
-PLAY 47,17,Echo And The Bunnymen,The Game,Echo & The Bunnymen (Expanded & Remastered),231
-PLAY 47,18,Chris de Burgh,The Lady In Red,Music For Lovers,245
-PLAY 47,19,Phil Collins,Against All Odds (Take a Look at Me Now),The Singles,206
-PLAY 47,20,The Beatles,Hey Jude,1 (Remastered),425
+PLAY 01|1|Pearl Jam|Animal|Only Success|167
+PLAY 01|2|Pearl Jam|Rockin' in the Free World|Only Success|390
+PLAY 01|3|Pearl Jam|Rearviewmirror|Only Success|300
+PLAY 01|4|Pearl Jam|Sonic Reducer|Only Success|214
+PLAY 01|5|Pearl Jam|State of Love and Trust|SINGLES - Original Motion Picture Soundtrack|227
+PLAY 01|6|Pearl Jam|World Wide Suicide|Only Success|215
+PLAY 01|7|Pearl Jam|I Got Id|rearviewmirror (greatest hits 1991-2003)|291
+PLAY 01|8|Pearl Jam|Breath|Singles - Original Motion Picture Soundtrack|325
+PLAY 01|9|Pearl Jam|Thin Air|Binaural|212
+PLAY 01|10|Pearl Jam|Hard To Imagine|Lost Dogs|274
+PLAY 01|11|Pearl Jam|Let Me Sleep (It's Christmas Time)|Lost Dogs|177
+PLAY 01|12|Pearl Jam|Yellow Ledbetter|Lost Dogs|300
+PLAY 01|13|Pearl Jam|Soldier of Love|No Boundaries - A Benefit For The Kosovar Refugees|174
+PLAY 01|14|Pearl Jam|Footsteps|Lost Dogs Disc 2|253
+PLAY 01|15|Pearl Jam|Master Of War|Only Success|299
+PLAY 01|16|Pearl Jam|Alive|Unplugged MTV|331
+PLAY 01|17|Pearl Jam|Even Flow|Unplugged MTV|308
+PLAY 01|18|Pearl Jam|Jeremy|Unplugged MTV|312
+PLAY 01|19|Pearl Jam|Black|Unplugged MTV|321
+PLAY 01|20|Pearl Jam|Porch|Unplugged MTV|367
+PLAY 02|1|Oasis|Rock'N'Roll Star|Familiar To Millions Disc 2|279
+PLAY 02|2|Alice In Chains|Man In The Box|Facelift|274
+PLAY 02|3|Hole|Violet|Live Through This|204
+PLAY 02|4|Weezer|Hash Pipe|Weezer (Green Album)|186
+PLAY 02|5|Garbage|Stupid Girl|Garbage|258
+PLAY 02|6|Duran Duran|Save a Prayer|Decade|329
+PLAY 02|7|The Cure|Lullaby|Greatest Hits|248
+PLAY 02|8|Legião Urbana|O Teatro Dos Vampiros|Legiao Urbana V|217
+PLAY 02|9|Guns N' Roses|Sweet Child O' Mine|Appetite For Destruction|354
+PLAY 02|10|Iron Maiden|Fear Of The Dark (1998 Remastered Version)|Fear Of The Dark (1998 Remastered Edition)|436
+PLAY 02|11|Skid Row|Wasted Time|Slave to the Grind|348
+PLAY 02|12|The Smashing Pumpkins|1979|Mellon Collie And The Infinite Sadness (Remastered)|266
+PLAY 02|13|Planet Hemp|Contexto|A Invasão do Sagaz Homem Fumaça|227
+PLAY 02|14|Beck|Where It's At|Odelay|329
+PLAY 02|15|Radiohead|No Surprises|OK Computer (Collector's Edition)|229
+PLAY 02|16|No Doubt|Don't Speak|Tragic Kingdom|263
+PLAY 02|17|Titãs|Os cegos do castelo|Acústico MTV|296
+PLAY 02|18|Pato Fu|Eu Sei|Televisão de Cachorro|185
+PLAY 02|19|Done Again|Bizarre Love Triangle (In the Style of Frente!) [Performance Track with Demonstration Vocals]|Bizarre Love Triangle (In the Style of Frente!) [Performance Track with Demonstration Vocals]|114
+PLAY 02|20|Pearl Jam|Crazy Mary|Sweet Relief - A Benefit For Victoria Williams|337
+PLAY 03|1|Guns N' Roses|Welcome To The Jungle|Appetite For Destruction (Explicit Version)|273
+PLAY 03|2|Black Sabbath|Sabbath Bloody Sabbath|Sabbath Bloody Sabbath|345
+PLAY 03|3|L7|Pretend We're Dead|Bricks Are Heavy|235
+PLAY 03|4|The Smashing Pumpkins|Bullet With Butterfly Wings|Mellon Collie And The Infinite Sadness (Remastered)|256
+PLAY 03|5|Nirvana|Lithium|Nevermind|257
+PLAY 03|6|Soundgarden|Black Hole Sun|Telephantasm (Deluxe Edition)|317
+PLAY 03|7|Coldplay|In My Place|A Rush of Blood to the Head|226
+PLAY 03|8|Spin Doctors|Little Miss Can't Be Wrong|Two Princes - The Best Of|232
+PLAY 03|9|Red Hot Chili Peppers|Breaking the Girl|Blood Sugar Sex Magik (Deluxe Edition)|295
+PLAY 03|10|Pearl Jam|Last Kiss|Lost Dogs|195
+PLAY 03|11|Legião Urbana|O Mundo Anda Tão Complicado|Legiao Urbana V|226
+PLAY 03|12|Alanis Morissette|Hand in My Pocket|Jagged Little Pill|221
+PLAY 03|13|Garbage|Only Happy When It Rains|Garbage|236
+PLAY 03|14|Alice in Chains|What the Hell Have I|Nothing Safe - The Best Of The Box|237
+PLAY 03|15|Planet Hemp|Dig Dig Dig (Hempa)|Usuario|112
+PLAY 03|16|No Doubt|Just A Girl|Tragic Kingdom|208
+PLAY 03|17|Gorillaz|19-2000|Gorillaz|210
+PLAY 03|18|U2|New Year's Day|War (Deluxe Edition Remastered)|335
+PLAY 03|19|Men at Work|Down Under|The Best Of Men At Work: Contraband|220
+PLAY 03|20|Oasis|Champagne Supernova|Stop The Clocks|449
+PLAY 04|1|311|Down|311|172
+PLAY 04|2|The Black Crowes|Remedy|The Southern Harmony And Musical Companion|322
+PLAY 04|3|Sonic Youth|100%|Dirty|149
+PLAY 04|4|Sugar Ray|RPM|Floored|201
+PLAY 04|5|Stone Temple Pilots|Big Bang Baby|Tiny Music...Songs from the Vatican Gift Shop|202
+PLAY 04|6|Oasis|Don't Look Back in Anger|(What's The Story) Morning Glory? (Remastered)|289
+PLAY 04|7|Red Hot Chili Peppers|Under the Bridge|Blood Sugar Sex Magik (Deluxe Edition)|264
+PLAY 04|8|Foo Fighters|Walking After You|The Colour And The Shape|249
+PLAY 04|9|Guns N' Roses|Knockin' On Heaven's Door|Greatest Hits|336
+PLAY 04|10|Pearl Jam|Even Flow|Only Success|320
+PLAY 04|11|Alice in Chains|Would?|Dirt|206
+PLAY 04|12|Extreme|Rest In Peace|III Sides To Every Story|361
+PLAY 04|13|Jamiroquai|Alright|Travelling Without Moving|243
+PLAY 04|14|CAKE|Never There|Prolonging the Magic|164
+PLAY 04|15|Collective Soul|Shine|Hints, Allegations & Things Left Unsaid|306
+PLAY 04|16|Capital Inicial|Fátima|Capital Inicial|229
+PLAY 04|17|Pato Fu|Sobre o Tempo|Gol de Quem?|207
+PLAY 04|18|The Cranberries|Dreams|Gold|273
+PLAY 04|19|Alanis Morissette|That I Would Be Good|Supposed Former Infatuation Junkie|256
+PLAY 04|20|Bush|Glycerine|Sixteen Stone|267
+PLAY 05|1|The Cranberries|Zombie|No Need To Argue (The Complete Sessions 1994-1995)|306
+PLAY 05|2|Nirvana|In Bloom|Nevermind|255
+PLAY 05|3|Foo Fighters|Learn to Fly|There Is Nothing Left To Lose|238
+PLAY 05|4|U2|Sunday Bloody Sunday|War (Deluxe Edition Remastered)|279
+PLAY 05|5|Alanis Morissette|You Oughta Know|Jagged Little Pill|249
+PLAY 05|6|Radiohead|Fake Plastic Trees|The Bends (Collector's Edition)|291
+PLAY 05|7|Information Society|Repetition|Information Society (CD+G)|274
+PLAY 05|8|Extreme|More Than Words|Extreme II - Pornograffitti|334
+PLAY 05|9|Guns N' Roses|Civil War|Use Your Illusion II (Explicit Version)|462
+PLAY 05|10|Garbage|I Think I'm Paranoid|Version 2.0|218
+PLAY 05|11|The Offspring|Pretty Fly (For a White Guy)|Americana|188
+PLAY 05|12|Deep Purple|Smoke on the Water|Deepest Purple: The Very Best of Deep Purple|337
+PLAY 05|13|The Doors|Roadhouse Blues|Morrison Hotel|243
+PLAY 05|14|Eric Clapton|Layla|Complete Clapton|428
+PLAY 05|15|Dire Straits|Sultans Of Swing|The Best Of Dire Straits & Mark Knopfler - Private Investigations|348
+PLAY 05|16|Eurythmics|Sweet Dreams (Are Made of This)|Greatest Hits|293
+PLAY 05|17|R.E.M.|Drive|Automatic For The People (U.S. Version)|271
+PLAY 05|18|John Lennon|Imagine|Imagine|187
+PLAY 05|19|Creedence Clearwater Revival|Have You Ever Seen The Rain|Creedence Clearwater Revival - Best Of|159
+PLAY 05|20|Black Sabbath|Changes|Black Sabbath Vol.4|281
+PLAY 06|1|Foo Fighters|Everlong|The Colour And The Shape (Special Edition)|250
+PLAY 06|2|Helmet|Milktoast|The Crow Original Motion Picture Soundtrack|239
+PLAY 06|3|Live|Lakini's Juice|Secret Samadhi|299
+PLAY 06|4|Butthole Surfers|Pepper|Electriclarryland|297
+PLAY 06|5|Muse|Uprising|The Resistance|304
+PLAY 06|6|Oasis|Supersonic|Definitely Maybe|283
+PLAY 06|7|Alice in Chains|Got Me Wrong|Unplugged|300
+PLAY 06|8|Beck|Loser|Mellow Gold|234
+PLAY 06|9|Pearl Jam|Jeremy|Only Success|316
+PLAY 06|10|Temple of the Dog|Hunger Strike|Temple Of The Dog|243
+PLAY 06|11|Type O Negative|Christian Woman|Bloody Kisses|538
+PLAY 06|12|Bush|Machinehead|Sixteen Stone|256
+PLAY 06|13|Collective Soul|Gel|Collective Soul|178
+PLAY 06|14|The Presidents of the United States of America|Lump|The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition|134
+PLAY 06|15|Blur|Beetlebum|Blur|305
+PLAY 06|16|Stone Temple Pilots|Interstate Love Song|Purple|193
+PLAY 06|17|Suicidal Tendencies|I'll Hate You Better|The Art Of Rebellion|256
+PLAY 06|18|Sonic Youth|Bull In The Heather|Experimental Jet Set, Trash And No Star|184
+PLAY 06|19|Redd Kross|Yesterday Once More|If I Were A Carpenter|239
+PLAY 06|20|The Cure|Close To Me|Greatest Hits|219
+PLAY 07|1|Pearl Jam|Alive|Only Success|286
+PLAY 07|2|Tracy Bonham|Mother, Mother|Maximum Edge - '90s Modern Rock|182
+PLAY 07|3|Foo Fighters|My Hero|The Colour And The Shape|260
+PLAY 07|4|Soundgarden|Spoonman|Telephantasm|246
+PLAY 07|5|Green Day|Boulevard of Broken Dreams|Greatest Hits: God's Favorite Band|262
+PLAY 07|6|Guns N' Roses|Used To Love Her|G N' R Lies|193
+PLAY 07|7|The Offspring|Why Don't You Get a Job?|Americana|171
+PLAY 07|8|Angra|Wuthering Heights|Angels Cry|279
+PLAY 07|9|Ugly Kid Joe|Cats In The Cradle|America's Least Wanted|242
+PLAY 07|10|Pink Floyd|Wish You Were Here|The Discovery Boxset (2011 Remastered Edition)|334
+PLAY 07|11|Oasis|Acquiesce|The Masterplan|264
+PLAY 07|12|Sex Pistols|God Save The Queen|Never Mind The Bollocks, Here's The Sex Pistols|199
+PLAY 07|13|Helmet|Unsung|Meantime|237
+PLAY 07|14|Live|I Alone|Best Of Live|218
+PLAY 07|15|The Presidents of the United States of America|Peaches|The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition|171
+PLAY 07|16|Extreme|Hole Hearted|Extreme II - Pornograffitti|219
+PLAY 07|17|Beck|Beercan|Mellow Gold|240
+PLAY 07|18|The Verve|Sonnet|Urban Hymns|261
+PLAY 07|19|Collective Soul|The World I Know (45 version)|The World I Know / Smashing Young Man [Digital 45]|256
+PLAY 07|20|Sonic Youth|Superstar|If I Were A Carpenter|248
+PLAY 08|1|Mad Season|I Don't Know Anything|Above (Deluxe Edition)|383
+PLAY 08|2|Guns N' Roses|You Could Be Mine|Use Your Illusion II (Explicit Version)|344
+PLAY 08|3|Jon Bon Jovi|Blaze Of Glory|Blaze Of Glory|335
+PLAY 08|4|Bryan Adams|Heaven|So Far So Good|243
+PLAY 08|5|Fine Young Cannibals|She Drives Me Crazy|The Raw And The Cooked|215
+PLAY 08|6|Stone Temple Pilots|Dancing Days|Encomium (A Tribute To Led Zeppelin)|227
+PLAY 08|7|Red Hot Chili Peppers|Soul to Squeeze|Greatest Hits|289
+PLAY 08|8|Alanis Morissette|Thank U|Supposed Former Infatuation Junkie|258
+PLAY 08|9|U2|I Still Haven't Found What I'm Looking For|The Joshua Tree|277
+PLAY 08|10|Screaming Trees|Dollar Bill|Sweet Oblivion|274
+PLAY 08|11|Radiohead|Creep|The Best Of|238
+PLAY 08|12|The Lemonheads|Into Your Arms|Come On Feel The Lemonheads|164
+PLAY 08|13|Foo Fighters|Big Me|Foo Fighters|132
+PLAY 08|14|Sonic Youth|Sugar Kane|Dirty|357
+PLAY 08|15|Nine Inch Nails|Closer|The Downward Spiral|373
+PLAY 08|16|Rollins Band|Liar|Weight|291
+PLAY 08|17|Blind Melon|Tones Of Home|Blind Melon|267
+PLAY 08|18|Blur|Coffee & TV|13 (Special Edition)|358
+PLAY 08|19|The Black Crowes|Thorn In My Pride|The Southern Harmony And Musical Companion|363
+PLAY 08|20|Type O Negative|Black No. 1 (Little Miss Scare -All)|Bloody Kisses|675
+PLAY 09|1|Stone Temple Pilots|Sex Type Thing|Core|218
+PLAY 09|2|Redd Kross|Jimmy's Fantasy|Phaseshifter|226
+PLAY 09|3|Nine Inch Nails|Burn|Natural Born Killers|295
+PLAY 09|4|Republica|Ready to Go|Ready To Go|301
+PLAY 09|5|Chico Science|A Praieira|Da Lama Ao Caos|216
+PLAY 09|6|Alanis Morissette|You Learn|Jagged Little Pill|239
+PLAY 09|7|The Police|Every Breath You Take|The Police|254
+PLAY 09|8|Pink Floyd|Time|The Discovery Boxset (2011 Remastered Edition)|413
+PLAY 09|9|a-ha|Stay on These Roads|Stay on These Roads|284
+PLAY 09|10|Sheryl Crow|Sweet Child O' Mine|The Globe Sessions|239
+PLAY 09|11|Nirvana|Molly's Lips|Incesticide|111
+PLAY 09|12|Weezer|Buddy Holly|Weezer|159
+PLAY 09|13|Jamiroquai|Deeper Underground|High Times: Singles 1992-2006|284
+PLAY 09|14|CAKE|I Will Survive|Fashion Nugget|310
+PLAY 09|15|The Doors|People Are Strange|Strange Days|130
+PLAY 09|16|Alice in Chains|No Excuses|Jar Of Flies|255
+PLAY 09|17|Sublime|Santeria|Sublime (Deluxe Edition)|183
+PLAY 09|18|Nenhum de Nos|Astronauta De Mármore|Cardume|196
+PLAY 09|19|Guns N' Roses|Estranged|Use Your Illusion II (Explicit Version)|564
+PLAY 09|20|Oasis|Fuckin' In the Bushes|Standing On The Shoulder Of Giants|198
+PLAY 10|1|The Smashing Pumpkins|The Beginning Is The End Is The Beginning|Adore (Super Deluxe)|300
+PLAY 10|2|L7|Everglade|Bricks Are Heavy|196
+PLAY 10|3|Red Hot Chili Peppers|Suck My Kiss|Blood Sugar Sex Magik|217
+PLAY 10|4|Rage Against the Machine|Bulls On Parade|Evil Empire|229
+PLAY 10|5|Stone Temple Pilots|Wicked Garden|Core|245
+PLAY 10|6|Nirvana|Sliver|Incesticide|132
+PLAY 10|7|Alice in Chains|Heaven Beside You|Alice In Chains|327
+PLAY 10|8|Alanis Morissette|Joining You|Live / Unplugged|309
+PLAY 10|9|Os Paralamas do Sucesso|Lanterna Dos Afogados|Arquivo|190
+PLAY 10|10|Guns N' Roses|November Rain|Use Your Illusion I|537
+PLAY 10|11|Faith No More|Edge of the World|Live at the Brixton Academy|350
+PLAY 10|12|The Breeders|Cannonball|Last Splash|215
+PLAY 10|13|Raimundos|Nêga Jurema|Raimundos|113
+PLAY 10|14|Silverchair|Freak|Freak Show/Neon Ballroom|226
+PLAY 10|15|Metallica|Wherever I May Roam|Metallica|403
+PLAY 10|16|Suicidal Tendencies|Nobody Hears|The Art Of Rebellion|332
+PLAY 10|17|Pato Fu|Canção Pra Você Viver Mais|Televisão de Cachorro|324
+PLAY 10|18|R.E.M.|Everybody Hurts|Automatic For The People (U.S. Version)|318
+PLAY 10|19|Garbage|Milk|Garbage|232
+PLAY 10|20|Sinéad O'Connor|Nothing Compares 2 U|I Do Not Want What I Haven't Got|280
+PLAY 11|1|White Zombie|More Human Than Human|Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head|268
+PLAY 11|2|Foo Fighters|I'll Stick Around|Foo Fighters|232
+PLAY 11|3|Guns N' Roses|Paradise City|Appetite For Destruction|405
+PLAY 11|4|Beastie Boys|Sabotage|Ill Communication|178
+PLAY 11|5|Tears for Fears|Break It Down Again|Elemental|271
+PLAY 11|6|Alice in Chains|I Stay Away|Jar Of Flies|254
+PLAY 11|7|Oasis|Wonderwall|Stop The Clocks|258
+PLAY 11|8|Capital Inicial|Primeiros Erros (Chove)|Acústico MTV|240
+PLAY 11|9|Engenheiros do Hawaii|Somos Quem Podemos Ser|Ouça O Que Eu Digo: Não Ouça Ninguém|158
+PLAY 11|10|Coldplay|God Put a Smile upon Your Face|A Rush of Blood to the Head|297
+PLAY 11|11|Green Day|When I Come Around|Woodstock 94 Disc 1|170
+PLAY 11|12|Live|White, Discussion|Throwing Copper|366
+PLAY 11|13|Ramones|Pet Sematary|Essential|209
+PLAY 11|14|R.E.M.|The One I Love|Document - 25th Anniversary Edition|197
+PLAY 11|15|Pink Floyd|Another Brick in the Wall, Pt. 1|The Wall Disc 1|345
+PLAY 11|16|Queen|Radio Ga Ga|Greatest Hits II (2011 Remaster)|343
+PLAY 11|17|Titãs|Marvin (Patches)|Titãs 84 94 Um|265
+PLAY 11|18|Barão Vermelho|O Poeta Está Vivo|Na Calada da Noite|261
+PLAY 11|19|U2|One|Achtung Baby (Deluxe Edition)|276
+PLAY 11|20|Temple of the Dog|Say Hello 2 Heaven|Temple Of The Dog|382
+PLAY 12|1|Black Sabbath|Paranoid|Paranoid|168
+PLAY 12|2|Ministry|N.W.O.|KE*A*H** (Psalm 69)|330
+PLAY 12|3|Rage Against the Machine|No Shelter|Godzilla - The Album|243
+PLAY 12|4|Stone Temple Pilots|Vasoline|Purple|174
+PLAY 12|5|Hole|Miss World|Live Through This|179
+PLAY 12|6|t.A.T.u.|All The Things She Said|t.A.T.u. - The Best|212
+PLAY 12|7|Os Paralamas do Sucesso|Selvagem|Arquivo|245
+PLAY 12|8|Ira!|Dias de luta|Dose Dupla Ira!|268
+PLAY 12|9|Iggy Pop|Candy|Brick By Brick|253
+PLAY 12|10|The Wallflowers|6th Avenue Heartache|Bringing Down The Horse|337
+PLAY 12|11|Beck|Pay No Mind (Snoozer)|Mellow Gold|194
+PLAY 12|12|Eminem|Cleanin' Out My Closet|The Eminem Show|297
+PLAY 12|13|Sheryl Crow|D'yer Mak'er|Tuesday Night Music Club (Deluxe Edition)|260
+PLAY 12|14|Skid Row|I Remember You|Skid Row|313
+PLAY 12|15|KISS|Forever|The Very Best Of Kiss|229
+PLAY 12|16|Dire Straits|So Far Away|Brothers In Arms|305
+PLAY 12|17|Queen|I Want To Break Free|Greatest Hits II (2011 Remaster)|258
+PLAY 12|18|Men at Work|It's a Mistake|The Best Of Men At Work: Contraband|271
+PLAY 12|19|The Cranberries|Linger|Gold|275
+PLAY 13|1|Helmet|Just Another Victim|Judgement Night: Music From The Motion Picture|261
+PLAY 13|2|Screaming Trees|Shadow of the Season|Sweet Oblivion|273
+PLAY 13|3|Raimundos|A mais pedida (Participação especial de Érica Martins)|So No Forevis|233
+PLAY 13|4|Candlebox|Far Behind|Candlebox|299
+PLAY 13|5|Radiohead|Stop Whispering|Pablo Honey|247
+PLAY 13|6|Queensrÿche|Silent Lucidity|Empire - 20th Anniversary Edition|347
+PLAY 13|7|Queen|Love of My Life|Live in Budapest|223
+PLAY 13|8|Us3|Cantaloop (Flip Fantasia)|Hand On The Torch|279
+PLAY 13|9|EMF|Unbelievable|Schubert Dip|209
+PLAY 13|10|Erasure|A Little Respect|Total Pop! - The First 40 Hits (Remastered)|212
+PLAY 13|11|The Soup Dragons|I'm Free|Lovegod (Deluxe / Remastered)|238
+PLAY 13|12|Peter Gabriel|Sledgehammer|So|274
+PLAY 13|13|Deee-Lite|Groove Is in the Heart|The Very Best of Deee-Lite|231
+PLAY 13|14|George Michael|Freedom! '90|Listen Without Prejudice Vol. 1|390
+PLAY 13|15|Stereo MC's|Connected|Connected|315
+PLAY 13|16|Depeche Mode|Just Can't Get Enough|The Best of Depeche Mode, Vol. 1 (Deluxe)|220
+PLAY 13|17|The Smiths|The Boy with the Thorn in His Side|The Sound of the Smiths (Deluxe; 2008 Remaster)|198
+PLAY 13|18|Jesus Jones|Right Here Right Now|Doubt|189
+PLAY 13|19|Guns N' Roses|It's Alright|Live Era '87-'93|187
+PLAY 13|20|Youssou N'Dour|7 Seconds|The Guide (Wommat)|306
+PLAY 14|1|Sex Pistols|Anarchy In The UK|Never Mind The Bollocks, Here’s The Sex Pistols|212
+PLAY 14|2|Faith No More|Another Body Murdered|Judgement Night: Music From The Motion Picture|261
+PLAY 14|3|Screaming Trees|Nearly Lost You|Sweet Oblivion|247
+PLAY 14|4|Candlebox|You|Candlebox|297
+PLAY 14|5|Deep Purple|Perfect Strangers|Perfect Strangers|328
+PLAY 14|6|Soundgarden|Fell On Black Days|Superunknown|285
+PLAY 14|7|Stone Temple Pilots|Creep|Core|306
+PLAY 14|8|Led Zeppelin|All My Love|In Through the out Door (1994 Remaster)|351
+PLAY 14|9|The Mission|Severina|God's Own Medicine|261
+PLAY 14|10|Alice in Chains|Over Now|Alice In Chains|421
+PLAY 14|11|Raimundos|Be a Ba|Raimundos|151
+PLAY 14|12|Collective Soul|Where The River Flows|Collective Soul|215
+PLAY 14|13|Blur|There's No Other Way|Leisure|204
+PLAY 14|14|Pitty|Equalize|Admirável Chip Novo|232
+PLAY 14|15|Capital Inicial|Fogo|Você Não Precisa Entender|280
+PLAY 14|16|Nirvana|The Man Who Sold The World|MTV Unplugged In New York|260
+PLAY 14|17|Foreigner|I Want to Know What Love Is|No End in Sight: The Very Best of Foreigner|301
+PLAY 14|18|U2|Stay (Faraway, So Close!)|Zooropa|298
+PLAY 14|19|Bryan Adams|(Everything I Do) I Do It For You|So Far So Good|393
+PLAY 14|20|Queen|Bohemian Rhapsody|Greatest Hits (2011 Remaster)|355
+PLAY 15|1|Deep Purple|Highway Star|Deepest Purple: The Very Best of Deep Purple|367
+PLAY 15|2|L7|Shitlist|Bricks Are Heavy|175
+PLAY 15|3|Soundgarden|My Wave|Telephantasm|313
+PLAY 15|4|System of a Down|Toxicity|Toxicity|218
+PLAY 15|5|Skid Row|18 and Life|Skid Row|229
+PLAY 15|6|Metallica|The Unforgiven|Metallica|386
+PLAY 15|7|Iron Maiden|Wasting Love (1998 Remastered Version)|Fear Of The Dark (1998 Remastered Edition)|350
+PLAY 15|8|Radiohead|High and Dry|The Bends (Collector's Edition)|257
+PLAY 15|9|Porno For Pyros|Pets|Porno For Pyros|216
+PLAY 15|10|Bloodhound Gang|The Bad Touch|Hooray For Boobies (Explicit Version)|261
+PLAY 15|11|INXS|Need You Tonight|Classic D.J. Mix, Vol. 1|181
+PLAY 15|12|Beck|Devils Haircut|Odelay (Deluxe Edition)|195
+PLAY 15|13|No Doubt|Hella Good|Rock Steady|243
+PLAY 15|14|Coldplay|Clocks|A Rush of Blood to the Head|307
+PLAY 15|15|Seal|Crazy|Hits|356
+PLAY 15|16|R.E.M.|Losing My Religion|Out Of Time (U.S. Version)|267
+PLAY 15|17|Guns N' Roses|Patience|Greatest Hits|356
+PLAY 15|18|The Smashing Pumpkins|Rhinoceros|Gish|390
+PLAY 15|19|Legião Urbana|Angra Dos Reis|Que Pais E Este|301
+PLAY 15|20|U2|Bad|The Unforgettable Fire (Remastered)|368
+PLAY 16|1|Led Zeppelin|Rock and Roll|Led Zeppelin IV (Deluxe Edition)|220
+PLAY 16|2|Sepultura|Territory|Chaos A.D.|287
+PLAY 16|3|System of a Down|B.Y.O.B.|Mezmerize|255
+PLAY 16|4|Soul Asylum|Somebody to Shove|Grave Dancers Union|194
+PLAY 16|5|Gorillaz|Clint Eastwood|Gorillaz|340
+PLAY 16|6|Eminem|Without Me|The Eminem Show|290
+PLAY 16|7|Bon Jovi|I'll Be There For You|Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package)|346
+PLAY 16|8|Ozzy Osbourne|Mama, I'm Coming Home|No More Tears|251
+PLAY 16|9|Duran Duran|A Matter of Feeling|Notorious (Deluxe Edition)|357
+PLAY 16|10|The Smashing Pumpkins|Perfect|(Rotten Apples) The Smashing Pumpkins Greatest Hits|202
+PLAY 16|11|Garbage|Push It|Version 2.0|242
+PLAY 16|12|Barão Vermelho|Pense e dance|Carnaval|239
+PLAY 16|13|Titãs|Hereditário|Titanomaquia|126
+PLAY 16|14|Us3|Tukka Yoot's Riddim|Hand On The Torch|341
+PLAY 16|15|Stereo MC's|Step It Up|Connected|303
+PLAY 16|16|Chico Science & Nação Zumbi|Maracatu Atômico|Afrociberdelia|284
+PLAY 16|17|Faith No More|Take This Bottle|King for a Day, Fool for a Lifetime|299
+PLAY 16|18|Shocking Blue|Venus|Greatest Hits Of Shocking Blue|187
+PLAY 16|19|Creedence Clearwater Revival|Proud Mary|Creedence Clearwater Revival - Best Of|186
+PLAY 16|20|The Bangles|Eternal Flame|Collections|235
+PLAY 17|1|Foo Fighters|Best of You|In Your Honour|255
+PLAY 17|2|Pearl Jam|Do The Evolution|Only Success|246
+PLAY 17|3|Nirvana|Come As You Are|Nevermind|218
+PLAY 17|4|The Smashing Pumpkins|Today|Siamese Dream (2011 - Remaster)|201
+PLAY 17|5|Guns N' Roses|Don't Cry (Original)|Use Your Illusion I|284
+PLAY 17|6|Oasis|Live Forever|Definitely Maybe|276
+PLAY 17|7|Live|Lightning Crashes|Throwing Copper|325
+PLAY 17|8|Coldplay|A Rush of Blood to the Head|A Rush of Blood to the Head|351
+PLAY 17|9|U2|With Or Without You|The Joshua Tree|295
+PLAY 17|10|Tears for Fears|Sowing The Seeds Of Love|The Seeds Of Love (Remastered with bonus tracks)|376
+PLAY 17|11|Ozzy Osbourne|No More Tears|No More Tears|443
+PLAY 17|12|Eminem|Lose Yourself|Curtain Call: The Hits|326
+PLAY 17|13|Screaming Trees|Butterfly|Sweet Oblivion|202
+PLAY 17|14|Jon Bon Jovi|Miracle|Blaze Of Glory|319
+PLAY 17|15|Izzy Stradlin And The Ju Ju Hounds|Shuffle It All|Izzy Stradlin And The Ju Ju Hounds|380
+PLAY 17|16|Dire Straits|Money For Nothing|Brothers In Arms|505
+PLAY 17|17|The Doors|Light My Fire|The Doors|425
+PLAY 17|18|Led Zeppelin|Kashmir|Physical Graffiti (Deluxe Edition)|517
+PLAY 17|19|Eagles|Hotel California|Hotel California (2013 Remaster)|391
+PLAY 18|1|The Prodigy|Breathe|The Fat of the Land|334
+PLAY 18|2|Body Count|Body Count's in the House|Body Count|204
+PLAY 18|3|Eminem|Guilty Conscience|The Slim Shady LP|214
+PLAY 18|4|Red Hot Chili Peppers|Around the World|Californication|238
+PLAY 18|5|Redd Kross|Ms. Lady Evans|Phaseshifter|169
+PLAY 18|6|Pitty|Déjà Vu|Anacrônico|258
+PLAY 18|7|Metallica|One|...And Justice for All|446
+PLAY 18|8|Led Zeppelin|Stairway to Heaven|Led Zeppelin IV (Deluxe Edition)|482
+PLAY 18|9|Weezer|Say It Ain't So|Weezer|258
+PLAY 18|10|Blur|End of a Century|Parklife|165
+PLAY 18|11|Joan Osborne|One Of Us|Relish|321
+PLAY 18|12|Blind Melon|No Rain|Blind Melon|217
+PLAY 18|13|Maskavo|Um Anjo do Céu|Já|199
+PLAY 18|14|Depeche Mode|Strangelove|Music for the Masses|297
+PLAY 18|15|Phil Collins|I Wish It Would Rain Down|...Hits|328
+PLAY 18|16|Roxette|It Must Have Been Love|The Ballad Hits|258
+PLAY 18|17|Eurythmics|There Must Be an Angel (Playing With My Heart)|Greatest Hits|280
+PLAY 18|18|Björk|Venus As A Boy|Debut|282
+PLAY 18|19|The Ronettes|Be My Baby|Be My Baby: The Very Best of The Ronettes|160
+PLAY 18|20|The Mamas & The Papas|California Dreamin'|If You Can Believe Your Eyes And Ears|157
+PLAY 19|1|The Hives|Hate To Say I Told You So|Veni Vidi Vicious|199
+PLAY 19|2|Sepultura|Orgasmatron|Arise|254
+PLAY 19|3|System of a Down|Chop Suey!|Toxicity|210
+PLAY 19|4|Soundgarden|The Day I Tried To Live|Superunknown (20th Anniversary)|320
+PLAY 19|5|Alice in Chains|Down In A Hole|Dirt|338
+PLAY 19|6|Pantera|This Love|Vulgar Display of Power|393
+PLAY 19|7|Danzig|Cantspeak|Danzig 4|246
+PLAY 19|8|Alanis Morissette|Uninvited|City of Angels (Music from the Motion Picture)|275
+PLAY 19|9|Legião Urbana|Quase Sem Querer|Dois|280
+PLAY 19|10|Engenheiros do Hawaii|Infinita Highway|A Revolta Dos Dandis|372
+PLAY 19|11|Iron Maiden|The Number Of The Beast (1998 Remastered Version)|The Number Of The Beast (1998 Remastered Edition)|291
+PLAY 19|12|Black Sabbath|Iron Man|Paranoid|354
+PLAY 19|13|Led Zeppelin|Whole Lotta Love|Led Zeppelin II (Deluxe Edition)|334
+PLAY 19|14|Suede|So Young|Suede Singles Disc 1|217
+PLAY 19|15|Massive Attack|Protection|Protection|471
+PLAY 19|16|Eminem|Stan|The Marshall Mathers LP|404
+PLAY 19|17|Coldplay|Yellow|Parachutes|266
+PLAY 19|18|Phil Collins|Another Day In Paradise|...Hits|322
+PLAY 19|19|George Michael|Careless Whisper|Twenty Five|303
+PLAY 19|20|Debbie Gibson|Lost in Your Eyes|Greatest Hits|213
+PLAY 20|1|White Zombie|Welcome To Planet Motherfucker/ Psychoholic Slag|La Sexorcisto: Devil Music Volume 1|381
+PLAY 20|2|Sepultura|Refuse / Resist|Chaos A.D.|199
+PLAY 20|3|System of a Down|Aerials|Toxicity|371
+PLAY 20|4|The White Stripes|Seven Nation Army|Elephant|231
+PLAY 20|5|Beck|E-Pro|Guero|202
+PLAY 20|6|Audioslave|Like a Stone|Audioslave|294
+PLAY 20|7|Massive Attack|Angel|Mezzanine|379
+PLAY 20|8|Coldplay|The Scientist|A Rush of Blood to the Head|309
+PLAY 20|9|Evanescence|My Immortal|Fallen|273
+PLAY 20|10|Limp Bizkit|Behind Blue Eyes|Behind Blue Eyes (International Version)|271
+PLAY 20|11|Van Halen|Jump|1984|239
+PLAY 20|12|Aerosmith|Dream On|Music From The Original Motion Picture Last Action Hero|342
+PLAY 20|13|Oingo Boingo|Stay|Dead Man's Party|217
+PLAY 20|14|Spin Doctors|Two Princes|Just Go Ahead Now: A Retrospective|257
+PLAY 20|15|Duran Duran|Union of the Snake|Decade|264
+PLAY 20|16|Eminem|The Real Slim Shady|Curtain Call: The Hits|284
+PLAY 20|17|U2|Staring At The Sun|Pop|276
+PLAY 20|18|Red Hot Chili Peppers|Scar Tissue|Californication|215
+PLAY 20|19|Jamiroquai|Virtual Insanity (Album Version)|Travelling Without Moving|340
+PLAY 20|20|Billy Idol|Eyes Without A Face|The Very Best Of Billy Idol: Idolize Yourself|298
+PLAY 21|1|Alice in Chains|Them Bones|Dirt|149
+PLAY 21|2|Soundgarden|Outshined|Badmotorfinger|310
+PLAY 21|3|The Offspring|Bad Habit|Smash|223
+PLAY 21|4|Lenny Kravitz|Fly Away|5|221
+PLAY 21|5|Live|The Dolphin's Cry|The Distance To Here|264
+PLAY 21|6|Tears for Fears|Woman In Chains|The Seeds Of Love (Remastered with bonus tracks)|393
+PLAY 21|7|The Smashing Pumpkins|Disarm|Siamese Dream (2011 - Remaster)|196
+PLAY 21|8|Depeche Mode|Enjoy the Silence|Violator|372
+PLAY 21|9|The Human League|Human|The Very Best Of The Human League|229
+PLAY 21|10|Men at Work|Who Can It Be Now?|The Best Of Men At Work: Contraband|200
+PLAY 21|11|Blur|Parklife|Parklife|185
+PLAY 21|12|Green Day|Walking Contradiction|Insomniac|151
+PLAY 21|13|The London Suede|Animal Nitrate|The Best Of|205
+PLAY 21|14|Sheryl Crow|If It Makes You Happy|Sheryl Crow|323
+PLAY 21|15|Faith No More|A Small Victory|Angel Dust|297
+PLAY 21|16|The Mission|Like A Child Again|Masque|217
+PLAY 21|17|Pearl Jam|Better Man|Vitalogy|268
+PLAY 21|18|Coldplay|Don't Panic|Parachutes|136
+PLAY 21|19|Suzanne Vega|Luka|Solitude Standing|231
+PLAY 21|20|Tracy Chapman|Baby Can I Hold You|Tracy Chapman|193
+PLAY 22|1|Nirvana|Smells Like Teen Spirit|Nirvana (International Version)|300
+PLAY 22|2|Lenny Kravitz|Always On The Run|Mama Said|233
+PLAY 22|3|Soundgarden|Show Me|Fresh Deadly Rarities|169
+PLAY 22|4|Suede|The Drowners|Suede (Remastered) - Deluxe Edition|251
+PLAY 22|5|Aerosmith|Janie's Got A Gun|Big Ones|329
+PLAY 22|6|Faith No More|Epic|Original Album Series|293
+PLAY 22|7|Guns N' Roses|Yesterdays|Use Your Illusion II (Explicit Version)|196
+PLAY 22|8|Green Day|Wake Me Up When September Ends|American Idiot|286
+PLAY 22|9|Pearl Jam|Black|Ten|342
+PLAY 22|10|Depeche Mode|Condemnation|The Singles 86-98|201
+PLAY 22|11|Queen|We Will Rock You|Greatest Hits (2011 Remaster)|121
+PLAY 22|12|Metallica|Master Of Puppets|Master Of Puppets (Remastered)|515
+PLAY 22|13|Hole|Celebrity Skin|Celebrity Skin|162
+PLAY 22|14|Alice in Chains|Angry Chair|Greatest Hits|288
+PLAY 22|15|Tears for Fears|Head Over Heels|Tears Roll Down (Greatest Hits 82-92)|254
+PLAY 22|16|The Cure|Boys Don't Cry|Greatest Hits|163
+PLAY 22|17|Live|Turn My Head|Best Of Live|234
+PLAY 22|18|INXS|Never Tear Us Apart|100 Essential Love Songs (Online version)|181
+PLAY 22|19|Men at Work|Overkill|Cargo|226
+PLAY 22|20|Mariah Carey|Without You|Greatest Hits|214
+PLAY 23|1|Erasure|Stop!|Pop! The First 20 Hits|341
+PLAY 23|2|New Order|Blue Monday '88|The Best of New Order|244
+PLAY 23|3|Information Society|Think|Hits|234
+PLAY 23|4|Noel|Silent Morning|Noel|264
+PLAY 23|5|Depeche Mode|Never Let Me Down Again|The Singles 86-98|260
+PLAY 23|6|INXS|Original Sin|The Swing (Remastered)|317
+PLAY 23|7|The B-52's|Love Shack|Nude On The Moon: The B-52's Anthology|321
+PLAY 23|8|Pet Shop Boys|It's a Sin|Discography - Complete Singles Collection|301
+PLAY 23|9|The Human League|Don't You Want Me|The Greatest Hits|238
+PLAY 23|10|Björk|Human Behaviour|Greatest Hits (Jewel Case Version)|251
+PLAY 23|11|The Police|Every Little Thing She Does Is Magic|The Very Best Of Sting And The Police|260
+PLAY 23|12|Jamiroquai|Seven Days in Sunny June|High Times: Singles 1992-2006|240
+PLAY 23|13|The Smiths|Heaven Knows I'm Miserable Now|The Sound of the Smiths (Deluxe; 2008 Remaster)|216
+PLAY 23|14|The Cure|Friday I'm In Love|Wish|215
+PLAY 23|15|R.E.M.|Shiny Happy People|Out Of Time (U.S. Version)|226
+PLAY 23|16|Faith No More|I Started A Joke|Who Cares A Lot? The Greatest Hits|179
+PLAY 23|17|The Mission|Butterfly On A Wheel|Carved In Sand (2CD Set Reissue)|342
+PLAY 23|18|Coldplay|Trouble|Parachutes|273
+PLAY 23|19|Crash Test Dummies|Mmm Mmm Mmm Mmm|The Best Of Crash Test Dummies|233
+PLAY 23|20|Counting Crows|Round Here|August And Everything After|331
+PLAY 24|1|Metallica|Enter Sandman|Metallica|331
+PLAY 24|2|Ozzy Osbourne|I Just Want You|Memoirs of a Madman|295
+PLAY 24|3|Faith No More|From out of Nowhere|Original Album Series|201
+PLAY 24|4|The Smashing Pumpkins|Siva|Gish (Deluxe Edition)|259
+PLAY 24|5|Oasis|Cigarettes & Alcohol|Definitely Maybe|289
+PLAY 24|6|Stone Temple Pilots|Trippin' on a Hole in a Paper Heart|Tiny Music...Songs from the Vatican Gift Shop|175
+PLAY 24|7|The Offspring|Come Out and Play|Smash|197
+PLAY 24|8|INXS|Disappear|Classic 90's|248
+PLAY 24|9|Queen|Under Pressure|Greatest Hits II (2011 Remaster)|236
+PLAY 24|10|The Cure|A Letter To Elise|Wish|312
+PLAY 24|11|Pearl Jam|Elderly Woman Behind the Counter in a Small Town (Remastered)|Vs.|196
+PLAY 24|12|Green Day|Good Riddance (Time of Your Life)|Nimrod|153
+PLAY 24|13|a-ha|Hunting High and Low|Hunting High and Low|228
+PLAY 24|14|Moby|In This World|18|242
+PLAY 24|15|Gorillaz|Feel Good Inc.|Demon Days|222
+PLAY 24|16|New Order|Round & Round '94|The Best of New Order|241
+PLAY 24|17|The B-52's|Legal Tender|Nude On The Moon: The B-52's Anthology|220
+PLAY 24|18|Depeche Mode|Useless|The Singles 86-98|292
+PLAY 24|19|Red Hot Chili Peppers|Blood Sugar Sex Magik|Blood Sugar Sex Magik (Deluxe Edition)|271
+PLAY 24|20|Soundgarden|Head Down|Superunknown (Super Deluxe)|369
+PLAY 25|1|Jane's Addiction|Been Caught Stealing|Ritual De Lo Habitual|214
+PLAY 25|2|Mudhoney|Suck You Dry|Piece Of Cake|154
+PLAY 25|3|Green Jellÿ|Three Little Pigs|Cereal Killer Soundtrack|353
+PLAY 25|4|Bloodhound Gang|Fire Water Burn|One Fierce Beer Coaster|291
+PLAY 25|5|Faith No More|Falling to Pieces|The Real Thing|313
+PLAY 25|6|Suede|Metal Mickey|Suede (Remastered) - Deluxe Edition|207
+PLAY 25|7|Depeche Mode|Walking in My Shoes|The Singles 86-98|301
+PLAY 25|8|Pearl Jam|Daughter (Remastered)|Vs.|234
+PLAY 25|9|Metallica|Nothing Else Matters|Metallica|388
+PLAY 25|10|Beastie Boys|Fight For Your Right|Licensed To Ill|207
+PLAY 25|11|The Smashing Pumpkins|Geek U.S.A.|Siamese Dream (2011 - Remaster)|313
+PLAY 25|12|The Offspring|Gotta Get Away|Smash|232
+PLAY 25|13|Charlie Brown Jr.|Só Por Uma Noite|Bocas Ordinárias|203
+PLAY 25|14|Maskavo Roots|Djorous|Se Não Guenta, Por Que Veio?|197
+PLAY 25|15|R.E.M.|The Sidewinder Sleeps Tonite|Automatic For The People (U.S. Version)|248
+PLAY 25|16|The Cure|Inbetween Days|Greatest Hits|176
+PLAY 25|17|Raul Seixas|Tente Outra Vez|20 Grandes Sucessos De Raul Seixas|144
+PLAY 25|18|Camisa de Venus|So o fim|Camisa de Venus|270
+PLAY 25|19|a-ha|There's Never a Forever Thing|Stay on These Roads|171
+PLAY 25|20|Double Side|The Captain of Her Heart|The Colours of Love, Vol. 2|269
+PLAY 26|1|Faith No More|Ashes to Ashes|Album of the Year|217
+PLAY 26|2|Nirvana|Even In His Youth|Nevermind|183
+PLAY 26|3|Bush|Swallowed|Razorblade Suitcase|291
+PLAY 26|4|Living Colour|Type|Everything Is Possible: The Very Best of Living Colour|387
+PLAY 26|5|Pearl Jam|Given to Fly|Yield|238
+PLAY 26|6|Stone Temple Pilots|Lady Picture Show|Tiny Music...Songs from the Vatican Gift Shop|246
+PLAY 26|7|Soul Asylum|Runaway Train|Grave Dancers Union|265
+PLAY 26|8|Os Paralamas do Sucesso|Meu Erro|O Passo Do Lui|208
+PLAY 26|9|Skank|Tão Seu|O Samba Poconé|243
+PLAY 26|10|Raul Seixas|Ouro De Tolo|"Krig-Ha, Bandolo"|171
+PLAY 26|11|Camisa de Venus|Eu nao matei joana darc|Camisa de Venus|224
+PLAY 26|12|The Offspring|Self Esteem|Smash|257
+PLAY 26|13|Green Day|She|Dookie|134
+PLAY 26|14|Live|Selling The Drama|Throwing Copper|208
+PLAY 26|15|Lenny Kravitz|Again|I'll Be Waiting|228
+PLAY 26|16|Oingo Boingo|Just Another Day|Dead Man's Party|312
+PLAY 26|17|The Mission|Stay With Me|God's Own Medicine|276
+PLAY 26|18|Soundgarden|Like Suicide|Superunknown (Super Deluxe)|424
+PLAY 26|19|The Smashing Pumpkins|Untitled|(Rotten Apples) The Smashing Pumpkins Greatest Hits|231
+PLAY 27|1|Blur|Song 2|Blur|121
+PLAY 27|2|Pearl Jam|Faithful|Yield|258
+PLAY 27|3|Ugly Kid Joe|Everything About You|America's Least Wanted|260
+PLAY 27|4|Green Day|Longview|Dookie|233
+PLAY 27|5|Nirvana|Love Buzz|Bleach (Deluxe)|215
+PLAY 27|6|Bush|Cold Contagious|Razorblade Suitcase|360
+PLAY 27|7|The Smashing Pumpkins|Tonight, Tonight|Mellon Collie And The Infinite Sadness (Remastered)|255
+PLAY 27|8|The Cure|High|Greatest Hits|214
+PLAY 27|9|Living Colour|Love Rears Its Ugly Head|Time'S Up|259
+PLAY 27|10|Lenny Kravitz|It Ain't Over 'Til It's Over|Mama Said|242
+PLAY 27|11|Faith No More|Digging the Grave|King for a Day, Fool for a Lifetime|183
+PLAY 27|12|Rage Against the Machine|Freedom|Rage Against The Machine|366
+PLAY 27|13|Soundgarden|Jesus Christ Pose|Badmotorfinger|350
+PLAY 27|14|Alice in Chains|Again|Alice In Chains|245
+PLAY 27|15|Foo Fighters|Times Like These|Greatest Hits|267
+PLAY 27|16|Depeche Mode|Policy of Truth|The Singles 86-98|313
+PLAY 27|17|New Order|True Faith '94|The Best of New Order|335
+PLAY 27|18|Seal|Kiss from a Rose|Hits|289
+PLAY 27|19|Tears for Fears|Advice For The Young At Heart|The Seeds Of Love (Remastered with bonus tracks)|290
+PLAY 28|1|Lenny Kravitz|Are You Gonna Go My Way|Are You Gonna Go My Way|211
+PLAY 28|2|Green Day|Geek Stink Breath|Insomniac|135
+PLAY 28|3|Faith No More|Midlife Crisis|Angel Dust|259
+PLAY 28|4|Nirvana|Heart-Shaped Box|Nirvana (International Version)|279
+PLAY 28|5|Foo Fighters|Walk|Wasting Light|256
+PLAY 28|6|Bush|Mouth|Razorblade Suitcase|345
+PLAY 28|7|The Offspring|What Happened to You?|Smash|132
+PLAY 28|8|The B-52's|Rock Lobster|Time Capsule|294
+PLAY 28|9|Tears for Fears|Everybody Wants To Rule The World|Tears Roll Down (Greatest Hits 82-92)|249
+PLAY 28|10|U2|Where The Streets Have No Name|The Joshua Tree|336
+PLAY 28|11|Ozzy Osbourne|Mr. Tinkertrain|No More Tears|356
+PLAY 28|12|Soundgarden|Hands All Over|Louder Than Love|360
+PLAY 28|13|Alice in Chains|Junkhead|Dirt|309
+PLAY 28|14|Oasis|Slide Away|Definitely Maybe|392
+PLAY 28|15|Pearl Jam|In Hiding|Yield|299
+PLAY 28|16|The Smashing Pumpkins|Hummer|Siamese Dream (2011 - Remaster)|416
+PLAY 28|17|Stone Temple Pilots|Adhesive|Tiny Music...Songs from the Vatican Gift Shop|334
+PLAY 28|18|Depeche Mode|Home|The Singles 86-98|345
+PLAY 28|19|The Cure|Let's Go To Bed|Greatest Hits|212
+PLAY 28|20|Morrissey|Suedehead|The Very Best Of|231
+PLAY 29|1|Rage Against the Machine|Killing In the Name|Rage Against The Machine|313
+PLAY 29|2|Green Day|Basket Case|Dookie|181
+PLAY 29|3|Nirvana|Turnaround|Incesticide|137
+PLAY 29|4|Camisa de Venus|Bete Morreu|Camisa de Venus|107
+PLAY 29|5|Titãs|Clitóris|Tudo Ao Mesmo Tempo Agora|227
+PLAY 29|6|Legião Urbana|Perfeição|Mais Do Mesmo|276
+PLAY 29|7|Pearl Jam|Corduroy|Vitalogy|277
+PLAY 29|8|Lenny Kravitz|Can't Get You Off My Mind|Circus|274
+PLAY 29|9|Faith No More|Easy|Angel Dust|187
+PLAY 29|10|The Smashing Pumpkins|Drown|Singles - Original Motion Picture Soundtrack|496
+PLAY 29|11|Alice in Chains|We Die Young|Facelift|151
+PLAY 29|12|Stone Temple Pilots|Plush|Core|310
+PLAY 29|13|Radiohead|My Iron Lung|The Bends|276
+PLAY 29|14|Depeche Mode|I Feel You|The Singles 86-98|275
+PLAY 29|15|INXS|New Sensation|Kick 30|220
+PLAY 29|16|a-ha|Take on Me|Hunting High and Low|227
+PLAY 29|17|New Order|Regret|The Best of New Order|249
+PLAY 29|18|Information Society|What's on Your Mind (Pure Energy) [Re-Recorded]|101 '80s Hits - New Wave, Old School Hip Hop, Hair Metal, Pop & Rock|279
+PLAY 29|19|Blur|The Universal|The Great Escape|238
+PLAY 29|20|Roxette|Spending My Time|The Ballad Hits|275
+PLAY 30|1|Soundgarden|Pretty Noose|Down On The Upside|251
+PLAY 30|2|Foo Fighters|This Is A Call|Foo Fighters|233
+PLAY 30|3|Metallica|Sad But True|Metallica|323
+PLAY 30|4|Pearl Jam|Light Years|Binaural|306
+PLAY 30|5|Alanis Morissette|So Unsexy|Under Rug Swept|307
+PLAY 30|6|Planet Hemp|Queimando Tudo|Os Cães Ladram Mas a Caravana Não Pára|172
+PLAY 30|7|Chico Science & Nação Zumbi|Manguetown|Afrociberdelia|194
+PLAY 30|8|Legião Urbana|Faroeste Caboclo|Mais Do Mesmo|542
+PLAY 30|9|Cazuza|Faz Parte Do Meu Show|Ideologia|173
+PLAY 30|10|Raul Seixas|Gita|'Gîtâ'|287
+PLAY 30|11|Green Day|Brain Stew|Insomniac|193
+PLAY 30|12|Green Day|Jaded|Insomniac|90
+PLAY 30|13|Nirvana|Scoff|Bleach (Deluxe)|250
+PLAY 30|14|Alice in Chains|Grind|Alice In Chains|284
+PLAY 30|15|Oasis|Stand by Me|Be Here Now|356
+PLAY 30|16|a-ha|Touchy!|Stay on These Roads|277
+PLAY 30|17|New Order|World (Price of Love)|The Best of New Order|219
+PLAY 30|18|Depeche Mode|Behind the Wheel|The Singles 86-98|241
+PLAY 30|19|Faith No More|Evidence|King for a Day, Fool for a Lifetime|294
+PLAY 30|20|Collective Soul|December|Collective Soul|285
+PLAY 30|21|Blur|Tender|13|461
+PLAY 31|1|The Smashing Pumpkins|Cherub Rock|Siamese Dream (2011 - Remaster)|298
+PLAY 31|2|Ugly Kid Joe|Neighbor|America's Least Wanted|285
+PLAY 31|3|L7|Monster|Bricks Are Heavy|176
+PLAY 31|4|Spin Doctors|Jimmy Olsen's Blues|Two Princes - The Best Of|277
+PLAY 31|5|R.E.M.|Radio Song|Out Of Time (U.S. Version)|255
+PLAY 31|6|The Lemonheads|Confetti|It's A Shame About Ray|166
+PLAY 31|7|Radiohead|Karma Police|OK Computer (Collector's Edition)|264
+PLAY 31|8|Pato Fu|Antes Que Seja Tarde|Maxximum - Pato Fu|256
+PLAY 31|9|4 Non Blondes|What's Up?|Bigger, Better, Faster, More !|295
+PLAY 31|10|Blind Melon|Change|Blind Melon|221
+PLAY 31|11|Rage Against the Machine|Sleep Now In the Fire (Album Version)|The Battle Of Los Angeles|205
+PLAY 31|12|Green Day|Welcome to Paradise|Dookie|224
+PLAY 31|13|Stone Temple Pilots|Crackerman|Core|194
+PLAY 31|14|Raimundos|Eu quero ver o oco|Lavô Tá Novo|251
+PLAY 31|15|Titãs|Diversão|84 94 - Volume 1|305
+PLAY 31|16|Depeche Mode|In Your Room|The Singles 86-98|290
+PLAY 31|17|Alice in Chains|Brother|The Essential Alice In Chains|268
+PLAY 31|18|Nirvana|All Apologies|MTV Unplugged In New York|263
+PLAY 31|19|Pearl Jam|Oceans|Ten Redux|161
+PLAY 31|20|Jimi Hendrix|Hey Joe|Experience Hendrix: The Best Of Jimi Hendrix|209
+PLAY 32|1|Pantera|Mouth for War|Vulgar Display of Power|237
+PLAY 32|2|Sepultura|Roots Bloody Roots|Roots|212
+PLAY 32|3|Biohazard|Judgment Night|Judgement Night: Music From The Motion Picture|274
+PLAY 32|4|Rage Against the Machine|Darkness|The Crow Original Motion Picture Soundtrack|222
+PLAY 32|5|Beastie Boys|Sure Shot|Ill Communication (Deluxe Version/Remastered)|199
+PLAY 32|6|Nirvana|Rape Me|In Utero - 20th Anniversary Remaster|170
+PLAY 32|7|Soul Asylum|Black Gold|Grave Dancers Union|236
+PLAY 32|8|Ugly Kid Joe|Busy Bee|America's Least Wanted|250
+PLAY 32|9|Pearl Jam|Wishlist|Yield|206
+PLAY 32|10|The Smashing Pumpkins|In The Arms Of Sleep|Mellon Collie And The Infinite Sadness (Remastered)|251
+PLAY 32|11|Joan Jett and the Blackhearts|I Love Rock N' Roll|Greatest Hits|175
+PLAY 32|12|Jimi Hendrix|Purple Haze|Experience Hendrix: The Best Of Jimi Hendrix|171
+PLAY 32|13|The Doors|Break on Through (To the Other Side)|The Doors|147
+PLAY 32|14|Raimundos|I Saw You Saying|Lavô Tá Novo|204
+PLAY 32|15|Alanis Morissette|Ironic|Jagged Little Pill|225
+PLAY 32|16|Soundgarden|Blow Up The Outside World|Down On The Upside|345
+PLAY 32|17|Stone Temple Pilots|Big Empty|The Crow Original Motion Picture Soundtrack|293
+PLAY 32|18|The B-52's|Good Stuff|Time Capsule|355
+PLAY 32|19|Maskavo Roots|Tempestade (feat. Samuel Rosa)|Se Não Guenta, Por Que Veio?|217
+PLAY 32|20|Pato Fu|Qualquer Bobagem|Gol de Quem?|214
+PLAY 33|1|Jimi Hendrix|Voodoo Child (Slight Return)|Experience Hendrix: The Best Of Jimi Hendrix|312
+PLAY 33|2|Megadeth|A Tout Le Monde|Youthanasia|262
+PLAY 33|3|Bon Jovi|Wanted Dead Or Alive|Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package)|308
+PLAY 33|4|Skid Row|Quicksand Jesus|Best Of|321
+PLAY 33|5|The Smashing Pumpkins|Rocket|Siamese Dream (2011 - Remaster)|246
+PLAY 33|6|Stone Temple Pilots|Sour Girl|Thank You|256
+PLAY 33|7|Nirvana|Polly|Nevermind|174
+PLAY 33|8|Alice in Chains|Nutshell|Jar Of Flies|259
+PLAY 33|9|Pantera|Walk|Vulgar Display of Power|315
+PLAY 33|10|Pearl Jam|Hail, Hail|No Code|221
+PLAY 33|11|Bush|Greedy Fly|Razorblade Suitcase|268
+PLAY 33|12|U2|Hold Me, Thrill Me, Kiss Me, Kill Me|The Best Of 1990-2000|285
+PLAY 33|13|Raimundos|Mulher de fases|So No Forevis|213
+PLAY 33|14|Legião Urbana|Índios|Mais Do Mesmo|258
+PLAY 33|15|Raul Seixas|Metamorfose Ambulante|"Krig-Ha, Bandolo"|231
+PLAY 33|16|Propaganda|Duel|A Secret Wish (DeLuxe)|281
+PLAY 33|17|Dexys Midnight Runners|Come On Eileen|Too Rye Ay|274
+PLAY 33|18|Kansas|Dust in the Wind|The Best Of Kansas|205
+PLAY 33|19|Pink Floyd|Comfortably Numb|Pulse|569
+PLAY 33|20|John Lennon|Happy Xmas (War Is Over)|ICON - A Very Special Christmas|212
+PLAY 34|1|Raimundos|Puteiro em João Pessoa|Raimundos|189
+PLAY 34|2|Titãs|Eu não aguento / Introdução: Sangue latino|Domingo|268
+PLAY 34|3|The White Stripes|I Just Don't Know What To Do With Myself|Elephant|166
+PLAY 34|4|The Smashing Pumpkins|Zero|Mellon Collie And The Infinite Sadness (Remastered)|159
+PLAY 34|5|Alice in Chains|Rooster|Greatest Hits|374
+PLAY 34|6|Pearl Jam|Dissident (Remastered)|Vs.|215
+PLAY 34|7|Bon Jovi|Never Say Goodbye|Slippery When Wet (Remastered)|288
+PLAY 34|8|Duran Duran|Ordinary World|Greatest|277
+PLAY 34|9|Pet Shop Boys|West End Girls|Discography - Complete Singles Collection|241
+PLAY 34|10|Madonna|Like a Prayer|Like a Prayer|340
+PLAY 34|11|Cyndi Lauper|True Colors|Une Heure De Tubes Slows|227
+PLAY 34|12|Bee Gees|Wish You Were Here|One|287
+PLAY 34|13|Red Hot Chili Peppers|Can't Stop|By the Way (Deluxe Edition)|269
+PLAY 34|14|Stone Temple Pilots|Days of the Week|Thank You|155
+PLAY 34|15|The B-52's|Private Idaho|Nude On The Moon: The B-52's Anthology|216
+PLAY 34|16|Camisa de Venus|Silvia (Piranha)|Camisa de Venus|250
+PLAY 34|17|Ultraje A Rigor|Mim quer tocar|2 é Demais|229
+PLAY 34|18|Legião Urbana|Monte Castelo|As Quatro Estações|230
+PLAY 34|19|Cazuza|Codinome Beija-Flor|Exagerado|151
+PLAY 34|20|ABBA|The Winner Takes It All|ABBA Gold|295
+PLAY 35|1|The Smashing Pumpkins|I Am One|Gish (Deluxe Edition)|246
+PLAY 35|2|Run DMC|Walk This Way|80's for 40's|311
+PLAY 35|3|Beastie Boys|No Sleep Till Brooklyn|Licensed To Ill|246
+PLAY 35|4|Muse|Supermassive Black Hole|Black Holes and Revelations|212
+PLAY 35|5|Sonic Youth|Sunday|A Thousand Leaves|292
+PLAY 35|6|Snow Patrol|Open Your Eyes|Eyes Open|341
+PLAY 35|7|Sixpence None the Richer|Kiss Me|Greatest Hits|198
+PLAY 35|8|Duran Duran|Come Undone|Greatest|257
+PLAY 35|9|Legião Urbana|Eu Era Um Lobisomem Juvenil|As Quatro Estações|406
+PLAY 35|10|Raul Seixas|Medo Da Chuva|20 Grandes Sucessos De Raul Seixas|177
+PLAY 35|11|Lady Gaga|Poker Face|The Fame Monster|237
+PLAY 35|12|Britney Spears|Toxic|In The Zone|198
+PLAY 35|13|Gwen Stefani|Hollaback Girl|Love Angel Music Baby|199
+PLAY 35|14|Sepultura|Kaiowas|Chaos A.D.|223
+PLAY 35|15|The Stone Roses|Love Spreads|Second Coming|347
+PLAY 35|16|Ramones|I Wanna Be Sedated|Road to Ruin (Expanded 2005 Remaster)|149
+PLAY 35|17|Tears for Fears|Shout|Tears Roll Down (Greatest Hits 82-92)|392
+PLAY 35|18|U2|Dancing Barefoot|The Best of 1980-1990 & B-Sides|285
+PLAY 35|19|Bee Gees|Stayin' Alive|Number Ones|285
+PLAY 35|20|ABBA|Dancing Queen|ABBA Gold|231
+PLAY 36|1|System of a Down|Hypnotize|Hypnotize|189
+PLAY 36|2|Marilyn Manson|The Beautiful People|Antichrist Superstar|218
+PLAY 36|3|AC/DC|Thunderstruck|The Razors Edge|292
+PLAY 36|4|Audioslave|Show Me How to Live|Audioslave|277
+PLAY 36|5|Bruce Dickinson|Tears of the Dragon|The Best of Bruce Dickinson|379
+PLAY 36|6|The Flaming Lips|She Don't Use Jelly|Transmissions From the Satellite Heart|222
+PLAY 36|7|The Animals|The House of the Rising Sun|The Best Of The Animals|269
+PLAY 36|8|Talking Heads|Psycho Killer|Talking Heads '77 (Deluxe Version)|261
+PLAY 36|9|Echo And The Bunnymen|The Killing Moon|Ocean Rain (Expanded; 2007 Remaster)|348
+PLAY 36|10|Alanis Morissette|Head over Feet|The Collection (Standard Edition)|264
+PLAY 36|11|Pearl Jam|The End|Backspacer|177
+PLAY 36|12|The Smashing Pumpkins|Silverfuck|Siamese Dream (2011 - Remaster)|522
+PLAY 36|13|Foo Fighters|Breakout|There Is Nothing Left To Lose|200
+PLAY 36|14|Hole|Malibu|Celebrity Skin|230
+PLAY 36|15|Candlebox|Cover Me|Candlebox|285
+PLAY 36|16|Jamiroquai|When You Gonna Learn?|High Times - The Singles 1992 - 2006|228
+PLAY 36|17|DNA|Tom's Diner|Classic 90's|228
+PLAY 36|18|Joy Division|Love Will Tear Us Apart|The Best Of|206
+PLAY 36|19|The Smiths|There Is a Light That Never Goes Out|The Sound of the Smiths (Deluxe; 2008 Remaster)|245
+PLAY 36|20|Toto|Africa|Toto IV|295
+PLAY 37|1|L7|Scrap|Bricks Are Heavy|174
+PLAY 37|2|Megadeth|Symphony Of Destruction|Countdown To Extinction|246
+PLAY 37|3|Metallica|Whiskey In The Jar|Garage Inc.|304
+PLAY 37|4|Alice in Chains|Sea Of Sorrow|Facelift|349
+PLAY 37|5|Sonic Youth|Incinerate|Rather Ripped|295
+PLAY 37|6|Hole|Doll Parts|Live Through This|211
+PLAY 37|7|Audioslave|I Am the Highway|Audioslave|334
+PLAY 37|8|Lynyrd Skynyrd|Simple Man|The Complete Collection|357
+PLAY 37|9|Andru Donalds|Save Me Now|Best Of|300
+PLAY 37|10|Spandau Ballet|True|Gold - The Best of Spandau Ballet|329
+PLAY 37|11|Moby|Porcelain|Play & Play: B Sides|241
+PLAY 37|12|The White Stripes|Fell In Love With a Girl|White Blood Cells|110
+PLAY 37|13|Foo Fighters|All My Life|Greatest Hits|263
+PLAY 37|14|Queen|Another One Bites The Dust|The Game (2011 Remaster)|217
+PLAY 37|15|Simple Minds|Alive And Kicking|Pub Jukebox Classics|286
+PLAY 37|16|Icehouse|No Promises|Measure For Measure (Bonus Track Edition)|280
+PLAY 37|17|George Michael|Heal the Pain|Ladies And Gentlemen... The Best Of George Michael|286
+PLAY 37|18|The Housemartins|Build|The People Who Grinned Themselves To Death|288
+PLAY 37|19|Chicago|If You Leave Me Now|The Very Best of Chicago: Only the Beginning|235
+PLAY 37|20|Roxette|Listen To Your Heart|Look Sharp! (2009 Version)|328
+PLAY 38|1|Sepultura|Slave New World|Chaos A.D. (Expanded Edition)|174
+PLAY 38|2|Marilyn Manson|Sweet Dreams (Are Made Of This)|Smells Like Children|293
+PLAY 38|3|Soundgarden|Birth Ritual|Singles - Original Motion Picture Soundtrack|365
+PLAY 38|4|Pearl Jam|Not for You|Vitalogy|352
+PLAY 38|5|Kings of Leon|Sex on Fire|Only By The Night|203
+PLAY 38|6|Pixies|Where Is My Mind?|Surfer Rosa|234
+PLAY 38|7|System of a Down|Lonely Day|Hypnotize|167
+PLAY 38|8|Red Hot Chili Peppers|Californication|Californication (Deluxe Edition)|329
+PLAY 38|9|The Rolling Stones|Like A Rolling Stone|The Rolling Stones Singles Box Set (1971-2006) (Sampler)|261
+PLAY 38|10|The Doors|Riders on the Storm|L.A. Woman|434
+PLAY 38|11|Pink Floyd|High Hopes|Pulse|472
+PLAY 38|12|Nirvana|About A Girl|MTV Unplugged In New York (25th Anniversary – Live)|217
+PLAY 38|13|The Smashing Pumpkins|Ava Adore|Adore (Super Deluxe)|270
+PLAY 38|14|Silverchair|Tomorrow|Frogstomp (Deluxe Edition) (Remastered)|266
+PLAY 38|15|Virna Lisi|Eu quero essa mullher|Virna Lisi|209
+PLAY 38|16|Planet Hemp|Nega do Cabelo Duro|Os Cães Ladram Mas a Caravana Não Pára|121
+PLAY 38|17|Los Hermanos|Anna Júlia|Los Hermanos|212
+PLAY 38|18|Nenhum De Nós|Camila, Camila|Nenhum de Nós|312
+PLAY 38|19|Legião Urbana|Meninos E Meninas|As Quatro Estações|203
+PLAY 38|20|Pato Fu|Depois|Isopor|266
+PLAY 39|1|Red Hot Chili Peppers|Give It Away|Blood Sugar Sex Magik (Deluxe Edition)|282
+PLAY 39|2|Franz Ferdinand|Take Me Out|Franz Ferdinand|236
+PLAY 39|3|The White Stripes|Stop Breaking Down|The White Stripes|140
+PLAY 39|4|Concrete Blonde|Heal It Up|Mexican Moon|261
+PLAY 39|5|Siouxsie and The Banshees|Cities In Dust|Tinderbox|231
+PLAY 39|6|Echo And The Bunnymen|Lips Like Sugar|Echo & The Bunnymen (Expanded & Remastered)|291
+PLAY 39|7|The Bolshoi|Sunday Morning|Friends|395
+PLAY 39|8|Soft Cell|Torch|The Very Best Of Soft Cell|247
+PLAY 39|9|When in Rome|The Promise|When In Rome|221
+PLAY 39|10|Muse|Hysteria|Absolution|227
+PLAY 39|11|Public Image Limited|Rise|The Greatest Hits... So Far|378
+PLAY 39|12|Simple Minds|Don't You (Forget About Me)|Driving|260
+PLAY 39|13|Midnight Oil|The Dead Heart|Diesel And Dust|311
+PLAY 39|14|Dire Straits|Walk Of Life|Brothers In Arms|247
+PLAY 39|15|The Cure|Pictures Of You|Disintegration (Deluxe Edition)|448
+PLAY 39|16|Pixies|Here Comes Your Man|Death to the Pixies|201
+PLAY 39|17|a-ha|Crying in the Rain|East of the Sun, West of the Moon|262
+PLAY 39|18|The The|This Is the Day|Soul Mining|297
+PLAY 39|19|Pet Shop Boys|Being Boring|Discography - Complete Singles Collection|291
+PLAY 39|20|Bruce Hornsby|The Way It Is|Greatest Radio Hits|297
+PLAY 40|1|The Offspring|All I Want|Ixnay On The Hombre|112
+PLAY 40|2|Live|Operation Spirit (The Tyranny Of Tradition)|Best Of Live|199
+PLAY 40|3|Kaiser Chiefs|Ruby|Souvenir : The Singles 2004 - 2012|203
+PLAY 40|4|New Radicals|You Get What You Give|Guilty Pleasures (International Version)|300
+PLAY 40|5|The Sugarcubes|Regina|Here Today, Tomorrow Next Week!|246
+PLAY 40|6|New Model Army|51st State|The Ghost Of Cain (Bonus Content)|158
+PLAY 40|7|The Beatles|Come Together|Abbey Road (Remastered)|259
+PLAY 40|8|Lou Reed|Walk on the Wild Side|The Best Of The 70's (seventies)|251
+PLAY 40|9|Echo And The Bunnymen|Bring on the Dancing Horses|Songs To Learn And Sing|235
+PLAY 40|10|Gorillaz|On Melancholy Hill|Plastic Beach|233
+PLAY 40|11|Metallica|Seek & Destroy|Kill 'Em All (Remastered)|414
+PLAY 40|12|Alice in Chains|Voices|The Devil Put Dinosaurs Here|342
+PLAY 40|13|The Smashing Pumpkins|Silvery Sometimes (Ghosts)|Silvery Sometimes (Ghosts)|210
+PLAY 40|14|Midnight Oil|My Country|Earth And Sun And Moon|291
+PLAY 40|15|Talking Heads|The Lady Don't Mind|Essential|238
+PLAY 40|16|Soft Cell|Tainted Love|The Very Best Of Soft Cell|160
+PLAY 40|17|Gary Numan|Cars|The Pleasure Principle|238
+PLAY 40|18|Queen|Somebody To Love|A Day At The Races (Deluxe Edition 2011 Remaster)|296
+PLAY 40|19|Rick Astley|Cry for Help|90s 100 Hits|243
+PLAY 40|20|Carly Simon|Coming Around Again|Clouds In My Coffee 1965-1995|220
+PLAY 41|1|The Rolling Stones|Paint It, Black|Singles 1965-1967|224
+PLAY 41|2|Keane|Is It Any Wonder?|The Best Of Keane (Deluxe Edition)|185
+PLAY 41|3|No Doubt|It's My Life|The Singles Collection|224
+PLAY 41|4|ABBA|Gimme! Gimme! Gimme! (A Man After Midnight)|ABBA Gold|289
+PLAY 41|5|New Order|Bizarre Love Triangle '94|The Best of New Order|234
+PLAY 41|6|Erasure|Blue Savannah|Total Pop! - The First 40 Hits (Deluxe Edition;Remastered)|259
+PLAY 41|7|Brenda Russell|Piano In The Dark|Greatest Hits|320
+PLAY 41|8|Bryan Adams|Please Forgive Me|Anthology|355
+PLAY 41|9|Pearl Jam|Just Breathe|Got Some / Just Breathe|216
+PLAY 41|10|Europe|The Final Countdown|Rock The Night - The Very Best Of Europe|309
+PLAY 41|11|The Cult|She Sells Sanctuary|Love|263
+PLAY 41|12|The Offspring|Gone Away|Ixnay On The Hombre|267
+PLAY 41|13|Pixies|Catfish Kate|Catfish Kate|188
+PLAY 41|14|Titãs|O pulso|Õ Blesq Blom|164
+PLAY 41|15|U2|Numb|Zooropa|260
+PLAY 41|16|Black Sabbath|N.I.B.|Black Sabbath (2009 Remastered Version)|364
+PLAY 41|17|The Church|Under the Milky Way|Starfish|297
+PLAY 41|18|Oasis|Don't Go Away|Be Here Now|288
+PLAY 41|19|Pink Floyd|Hey You|Pulse|292
+PLAY 41|20|Ozzy Osbourne|Ordinary Man (feat. Elton John)|Ordinary Man|301
+PLAY 42|1|Nirvana|You Know You're Right|Nirvana|217
+PLAY 42|2|The Offspring|The Kids Aren't Alright|Americana|180
+PLAY 42|3|Franz Ferdinand|Do You Want To|You Could Have It So Much Better|215
+PLAY 42|4|Arctic Monkeys|Do I Wanna Know?|Do I Wanna Know?|273
+PLAY 42|5|Red Hot Chili Peppers|Dani California|Stadium Arcadium|282
+PLAY 42|6|Pearl Jam|Who You Are|No Code|230
+PLAY 42|7|Oasis|Stop Crying Your Heart Out|Heathen Chemistry|303
+PLAY 42|8|Plebe Rude|Até Quando Esperar|Brasília|268
+PLAY 42|9|Pitty|Me Adora|Chiaroscuro|271
+PLAY 42|10|Titãs|Comida|Jesus Não Tem Dentes No País Dos Banguelas|235
+PLAY 42|11|AC/DC|Back In Black|Back In Black|255
+PLAY 42|12|Audioslave|Cochise|Audioslave|222
+PLAY 42|13|Peter Frampton|Breaking All the Rules|Rock Classics|425
+PLAY 42|14|Creed|My Sacrifice|Weathered|294
+PLAY 42|15|Robert Plant|29 Palms|Fate of Nations|291
+PLAY 42|16|Weezer|Island In The Sun|Weezer (Green Album)|200
+PLAY 42|17|Gene Loves Jezebel|Desire|Discover|198
+PLAY 42|18|James|Born Of Frustration|James: The Best Of|276
+PLAY 42|19|The Human League|Heart Like A Wheel|All The Best|267
+PLAY 42|20|The Smiths|This Charming Man|The Sound of the Smiths (Deluxe; 2008 Remaster)|163
+PLAY 43|1|Red Hot Chili Peppers|Easily|Californication (Deluxe Edition)|231
+PLAY 43|2|CAKE|The Distance|Fashion Nugget|179
+PLAY 43|3|The Outfield|Your Love|Super Hits|221
+PLAY 43|4|Oingo Boingo|Dead Man's Party|Best O' Boingo|382
+PLAY 43|5|The Bangles|Walk Like An Egyptian|Greatest Hits|201
+PLAY 43|6|The Silencers|Bulletproof Heart|The Best Of - Blood & Rain: The Singles '86 - '96|299
+PLAY 43|7|Simply Red|For Your Babies|Stars (Collector's Edition)|257
+PLAY 43|8|The Cranberries|Ode To My Family|No Need To Argue (The Complete Sessions 1994-1995)|271
+PLAY 43|9|Legião Urbana|Pais E Filhos|Mais Do Mesmo|308
+PLAY 43|10|Os Paralamas do Sucesso|Aonde Quer Que Eu Vá|Arquivo II 1991 - 2000|257
+PLAY 43|11|Mad Season|Wake Up|Above|456
+PLAY 43|12|Metallica|Until It Sleeps|Load|267
+PLAY 43|13|Creed|Don't Stop Dancing|Weathered|272
+PLAY 43|14|Nickelback|How You Remind Me|The Best of Nickelback, Vol. 1|224
+PLAY 43|15|Semisonic|Secret Smile|Secret Smile|279
+PLAY 43|16|The Wallflowers|One Headlight|Bringing Down The Horse|312
+PLAY 43|17|The Black Crowes|She Talks To Angels|Greatest Hits 1990-1999: A Tribute To A Work In Progress...|329
+PLAY 43|18|Rod Stewart|I Don't Want to Talk About It|Some Guys Have All the Luck|292
+PLAY 43|19|Richard Marx|Right Here Waiting|Repeat Offender|264
+PLAY 43|20|Bonnie Tyler|Total Eclipse of the Heart|Heaven & Hell|270
+PLAY 44|1|Sonic Youth|Kool Thing|Goo (Deluxe Edition)|246
+PLAY 44|2|The Cranberries|Salvation|To The Faithful Departed (The Complete Sessions 1996-1997)|143
+PLAY 44|3|Pearl Jam|Sirens|Sirens|340
+PLAY 44|4|Red Hot Chili Peppers|Otherside|Californication (Deluxe Edition)|255
+PLAY 44|5|Aerosmith|Livin' On The Edge|Get A Grip|380
+PLAY 44|6|Scorpions|Wind Of Change|Crazy World|313
+PLAY 44|7|Skid Row|Little Wing|B-Side Ourselves|199
+PLAY 44|8|Pitty|Na Sua Estante|Anacrônico|222
+PLAY 44|9|Engenheiros do Hawaii|Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones|O Papa É Pop|265
+PLAY 44|10|Legião Urbana|Ainda É Cedo|Mais Do Mesmo|236
+PLAY 44|11|The Human League|(Keep Feeling) Fascination|The Greatest Hits|225
+PLAY 44|12|Phil Collins|Two Hearts|The Singles|204
+PLAY 44|13|AC/DC|Highway to Hell|Highway to Hell|208
+PLAY 44|14|Ramones|Poison Heart|Mondo Bizarro|243
+PLAY 44|15|The Strokes|Reptilia|Room On Fire|219
+PLAY 44|16|Primal Scream|Rocks|Give Out But Don't Give Up (Expanded Edition)|216
+PLAY 44|17|Sheryl Crow|All I Wanna Do|Tuesday Night Music Club|272
+PLAY 44|18|Jimmy Page|Gallows Pole|No Quarter|249
+PLAY 44|19|Mr. Big|To Be With You|Big, Bigger, Biggest! The Best Of Mr. Big|207
+PLAY 44|20|Bonnie Tyler|It's A Heartache|100 Essential Hits - 70s|208
+PLAY 45|1|Led Zeppelin|Black Dog|Mothership|295
+PLAY 45|2|Skid Row|Monkey Business|Best Of|259
+PLAY 45|3|The Cult|Edie (Ciao Baby)|Sonic Temple|286
+PLAY 45|4|Van Halen|Dreams|The Best of Both Worlds|292
+PLAY 45|5|Bruce Springsteen|Dancing In the Dark|Born In The U.S.A.|241
+PLAY 45|6|Queen|We Are The Champions|Greatest Hits (Remastered)|186
+PLAY 45|7|Europe|Carrie|Rock The Night - The Very Best Of Europe|270
+PLAY 45|8|Steve Vai|For the Love of God|Pure... Metal|363
+PLAY 45|9|Joe Satriani|Summer Song|The Extremist|297
+PLAY 45|10|The Runaways|Dead End Justice|The Runaways - The Mercury Albums Anthology|419
+PLAY 45|11|Kleenex|Die Matrosen|Liliput|229
+PLAY 45|12|Courtney Barnett|Nobody Really Cares If You Don't Go to the Party|Sometimes I Sit and Think, and Sometimes I Just Sit|166
+PLAY 45|13|The Raincoats|Lola|The Raincoats|243
+PLAY 45|14|Pato Fu|Eu|Ruido Rosa|181
+PLAY 45|15|Semisonic|Closing Time|Pop Hits 1998|273
+PLAY 45|16|Silverchair|Miss You Love|Neon Ballroom|241
+PLAY 45|17|Keane|Everybody's Changing|The Best Of Keane (Deluxe Edition)|216
+PLAY 45|18|The Verve|Bitter Sweet Symphony|90s Rock|359
+PLAY 45|19|Tracy Chapman|Fast Car|Tracy Chapman|296
+PLAY 45|20|Bill Medley|(I've Had) The Time Of My Life|Dirty Dancing (Original Motion Picture Soundtrack)|290
+PLAY 46|1|Metallica|Mama Said|Load|319
+PLAY 46|2|Silverchair|Anthem for the Year 2000|The Best Of - Volume One|261
+PLAY 46|3|The Strokes|Last Nite|Is This It|193
+PLAY 46|4|Living Colour|Glamour Boys|Vivid (Expanded Edition)|220
+PLAY 46|5|Van Halen|Love Walks In|The Very Best of Van Halen|311
+PLAY 46|6|Alice in Chains|Whale & Wasp|Jar Of Flies|157
+PLAY 46|7|Alice in Chains|Don't Follow|Jar Of Flies|262
+PLAY 46|8|Nirvana|Dumb|In Utero - 20th Anniversary Remaster|151
+PLAY 46|9|Mad Season|Long Gone Day|Above|289
+PLAY 46|10|The Rolling Stones|Angie|Goats Head Soup (Remastered 2009)|272
+PLAY 46|11|Edwyn Collins|A Girl Like You|Gorgeous George|236
+PLAY 46|12|Soul Asylum|Sexual Healing|After The Flood: Live From The Grand Forks Prom|279
+PLAY 46|13|Oingo Boingo|We Close Our Eyes|Boingo Alive|209
+PLAY 46|14|Red Hot Chili Peppers|The Zephyr Song|By the Way (Deluxe Edition)|231
+PLAY 46|15|Crash Test Dummies|Afternoons & Coffeespoons|The Best Of Crash Test Dummies|235
+PLAY 46|16|4 Non Blondes|Spaceman|Bigger, Better, Faster, More !|220
+PLAY 46|17|Gregory Abbott|Shake You Down|80s 100 Hits|244
+PLAY 46|18|Paul Young|Every Time You Go Away|From Time To Time - The Singles Collection|267
+PLAY 46|19|Elvis Presley|Suspicious Minds|Suspicious Minds: 60 Greatest Hits of Elvis Presley|269
+PLAY 46|20|Phil Collins|One More Night|Love Songs (A Compilation Old and New)|292
+PLAY 47|1|Ozzy Osbourne|Perry Mason|Memoirs of a Madman|353
+PLAY 47|2|Deep Purple|Child in Time|Deep Purple in Rock (Anniversary Edition)|613
+PLAY 47|3|Sonic Youth|Dirty Boots|Goo (Deluxe Edition)|329
+PLAY 47|4|Foo Fighters|Waiting On A War|Waiting On A War|253
+PLAY 47|5|Soul Asylum|Misery|Let Your Dim Light Shine|264
+PLAY 47|6|Jon Bon Jovi|Janie, Don't Take Your Love To Town|Destination Anywhere|317
+PLAY 47|7|R.E.M.|It's The End Of The World As We Know It (And I Feel Fine)|And I Feel Fine.....The Best Of The IRS Years 82-87|245
+PLAY 47|8|Outkast|Hey Ya!|Touch My Soul|236
+PLAY 47|9|Amy Winehouse|Rehab|Back To Black|213
+PLAY 47|10|Fugees|Killing Me Softly With His Song|Greatest Hits|290
+PLAY 47|11|Martika|Toy Soldiers|Toy Soldiers: The Best Of Martika|259
+PLAY 47|12|CAKE|Comfort Eagle|Comfort Eagle|220
+PLAY 47|13|Simple Minds|Hypnotised|Good News From The Next World|353
+PLAY 47|14|New Radicals|Someday We'll Know|Maybe You've Been Brainwashed Too|219
+PLAY 47|15|Red Hot Chili Peppers|My Friends|One Hot Minute (Deluxe Edition)|248
+PLAY 47|16|The Outfield|Voices Of Babylon|Super Hits|211
+PLAY 47|17|Echo And The Bunnymen|The Game|Echo & The Bunnymen (Expanded & Remastered)|231
+PLAY 47|18|Chris de Burgh|The Lady In Red|Music For Lovers|245
+PLAY 47|19|Phil Collins|Against All Odds (Take a Look at Me Now)|The Singles|206
+PLAY 47|20|The Beatles|Hey Jude|1 (Remastered)|425
